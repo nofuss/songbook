@@ -19,11 +19,11 @@ sub wanted {
     pop @chunks;
     my $filename = join('-', @chunks) . '.txt';
 
-    open IN, "<$src";
-    open OUT, ">$targetDir/$filename";
-    while (<IN>) {
-        print OUT;
+    if (!-e "$targetDir/$filename" || -m "$targetDir/$filename" < -m "$src") {
+        open IN, "<$src";
+        open OUT, ">$targetDir/$filename";
+        print OUT while <IN>;
+        close IN;
+        close OUT;
     }
-    close IN;
-    close OUT;
 }
