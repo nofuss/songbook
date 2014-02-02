@@ -1,0 +1,244 @@
+------------------------
+from : www.zonemetal.com
+------------------------
+
+band: Meshuggah
+album: Catch 33
+song: Shed
+
+
+ 0:00
+C|X---------|X-------|X---------|
+S|----O-----|----O---|----O-----| |
+B|O--O--OO--|O--O--OO|O--O--OO--| |
+|1e&a2e&a3e|&a4e&a1e|&a2e&a3e&a| |
+|
+C|X---------|X-------|X---------| |
+S|----O-----|----O---|----O-----| |
+B|O--O--OO--|O--O--OO|O--O--OO--| |
+|4e&a1e&a2e|&a3e&a4e|&a1e&a2e&a| | This is the first 8 bars
+| of the song, assuming it’s
+C|X---------|X-------|X---------| | in 4/4. I\'ve divided it
+S|----O-----|----O---|----O-----| | up into segments which are
+B|O--O--OO--|O--O--OO|O--O--OO--| | much easier to follow
+|3e&a4e&a1e|&a2e&a3e|&a4e&a1e&a| | The counting guide is in 4/4.
+|
+C|X---------|X-------|X---------| |
+S|----O-----|----O---|----O-----| |
+B|O--O--OO--|O--O--OO|O--O--OO--| |
+|2e&a3e&a4e|&a1e&a2e|&a3e&a4e&a| |
+|
+C|X---------|------| |
+S|----O-----|------| |
+B|O--O--OO--|------| |
+|1e&a2e&a3e|&a4e&a| /
+
+
+0:15
+C|X---------|--------|----------|
+S|----O-----|----O---|----O-----| |
+FT|-oo--ooooo|Ooo--ooo|Ooo--ooooo| |
+B|O--O--OO--|O--O--OO|O--O--OO--| |
+|1e&a2e&a3e|&a4e&a1e|&a2e&a3e&a| |
+|
+S|----O-----|----O---|----O-----| |
+FT|Ooo--oooo-|Ooo--ooo|Ooo--ooooo| |
+B|O--O--OO--|O--O--OO|O--O--OO--| |
+|4e&a1e&a2e|&a3e&a4e|&a1e&a2e&a| |
+|
+S|----O-----|----O---|----O-----| |
+FT|Ooo--ooooo|Ooo--ooo|Ooo--ooooo| | REPEAT 3x
+B|O--O--OO--|O--O--OO|O--O--OO--| |
+|3e&a4e&a1e|&a2e&a3e|&a4e&a1e&a| |
+|
+S|----O-----|----O---|----O-----| |
+FT|Ooo--ooooo|Ooo--ooo|Ooo--ooooo| |
+B|O--O--OO--|O--O--OO|O--O--OO--| |
+|2e&a3e&a4e|&a1e&a2e|&a3e&a4e&a| |
+|
+S|----O-----|----O-| |
+FT|Ooo--ooooo|Ooo--o| |
+B|O--O--OO--|O--O--| |
+|1e&a2e&a3e|&a4e&a| /
+
+
+1:16
+C|X---x-----|X---x---|X---x-----|
+S|----------|----O---|----------|
+FT|-ooo--oooo|-oo---oo|-ooo--oooo|
+B|O--OO-OO--|O--O--OO|O--OO-OO--|
+|1e&a2e&a3e|&a4e&a1e|&a2e&a3e&a|
+
+C|X---------|X---x---|X---------|
+S|----O-----|--------|----O-----|
+FT|-oo---oooo|-ooo--oo|-oo---oooo|
+B|O--O--OO--|O--OO-OO|O--O--OO--|
+|4e&a1e&a2e|&a3e&a4e|&a1e&a2e&a|
+
+C|X---x-----|X---x---|X---x-----|
+S|----------|----O---|----------|
+FT|-ooo--oooo|-oo---oo|-ooo--oooo|
+B|O--OO-OO--|O--O--OO|O--OO-OO--|
+|3e&a4e&a1e|&a2e&a3e|&a4e&a1e&a|
+
+C|X---------|X---x---|X---------|
+S|----O-----|--------|----O-----|
+FT|-oo---oooo|-ooo--oo|-oo---oooo|
+B|O--O--OO--|O--OO-OO|O--O--OO--|
+|2e&a3e&a4e|&a1e&a2e|&a3e&a4e&a|
+
+C|X---x-----|X-----|
+S|----------|-----O|
+FT|-ooo--oooo|------|
+B|O--OO-OO--|O--OO-|
+|1e&a2e&a3e|&a4e&a|
+
+
+1:31
+C|X---------|--------|----------|
+S|----O-----|----O---|----O-----| |
+FT|-oo--ooooo|Ooo--ooo|Ooo--ooooo| |
+B|O--O--OO--|O--O--OO|O--O--OO--| |
+|1e&a2e&a3e|&a4e&a1e|&a2e&a3e&a| |
+|
+S|----O-----|----O---|----O-----| |
+FT|Ooo--oooo-|Ooo--ooo|Ooo--ooooo| |
+B|O--O--OO--|O--O--OO|O--O--OO--| |
+|4e&a1e&a2e|&a3e&a4e|&a1e&a2e&a| |
+| REPEAT 1x
+S|----O-----|----O---|----O-----| |
+FT|Ooo--ooooo|Ooo--ooo|Ooo--ooooo| |
+B|O--O--OO--|O--O--OO|O--O--OO--| |
+|3e&a4e&a1e|&a2e&a3e|&a4e&a1e&a| |
+|
+S|----O-----|----O---|----O-----| |
+FT|Ooo--ooooo|Ooo--ooo|Ooo--ooooo| |
+B|O--O--OO--|O--O--OO|O--O--OO--| |
+|2e&a3e&a4e|&a1e&a2e|&a3e&a4e&a| /
+
+C|----------|--------|----------|X---|
+S|----O-----|----O---|----O-----|-gOO|
+FT|Ooo--ooooo|Ooo--ooo|Ooo--ooooo|----|
+B|O--O--OO--|O--O--OO|O--O--OO--|O---|
+|1e&a2e&a3e|&a4e&a1e|&a2e&a3e&a|4e&a|
+
+
+2:02
+S|----O-----|----O---|----O-----|
+FT|Ooo--ooooo|Ooo--ooo|Ooo--ooooo|
+B|O--O--OO--|O--O--OO|O--O--OO--|
+|1e&a2e&a3e|&a4e&a1e|&a2e&a3e&a|
+
+S|----O-----|----O---|----O-----|
+FT|Ooo--oooo-|Ooo--ooo|Ooo--ooooo|
+B|O--O--OO--|O--O--OO|O--O--OO--|
+|4e&a1e&a2e|&a3e&a4e|&a1e&a2e&a|
+
+S|----O-----|----O---|----O-----|
+FT|Ooo--ooooo|Ooo--ooo|Ooo--ooooo|
+B|O--O--OO--|O--O--OO|O--O--OO--|
+|3e&a4e&a1e|&a2e&a3e|&a4e&a1e&a|
+
+S|----O-----|----O---|----O-----|
+FT|Ooo--ooooo|Ooo--ooo|Ooo--ooooo|
+B|O--O--OO--|O--O--OO|O--O--OO--|
+|2e&a3e&a4e|&a1e&a2e|&a3e&a4e&a|
+
+S|----O-----|----O-|
+FT|Ooo--ooooo|Ooo--o|
+B|O--O--OO--|O--O--|
+|1e&a2e&a3e|&a4e&a|
+
+
+
+2:17
+S|----O-----|----O---|----O-----|
+FT|Ooo--ooooo|Ooo--ooo|Ooo--ooooo| |
+B|O--O--OO--|O--O--OO|O--O--OO--| |
+|1e&a2e&a3e|&a4e&a1e|&a2e&a3e&a| |
+|
+S|----O-----|----O---|----O-----| |
+FT|Ooo--oooo-|Ooo--ooo|Ooo--ooooo| |
+B|O--O--OO--|O--O--OO|O--O--OO--| |
+|4e&a1e&a2e|&a3e&a4e|&a1e&a2e&a| |
+| REPEAT 1x
+S|----O-----|----O---|----O-----| |
+FT|Ooo--ooooo|Ooo--ooo|Ooo--ooooo| |
+B|O--O--OO--|O--O--OO|O--O--OO--| |
+|3e&a4e&a1e|&a2e&a3e|&a4e&a1e&a| |
+|
+S|----O-----|----O---|----O-----| |
+FT|Ooo--ooooo|Ooo--ooo|Ooo--ooooo| |
+B|O--O--OO--|O--O--OO|O--O--OO--| |
+|2e&a3e&a4e|&a1e&a2e|&a3e&a4e&a| /
+
+C|----------|--------|----------|X---|
+S|----O-----|----O---|----O-----|-gOO|
+FT|Ooo--ooooo|Ooo--ooo|Ooo--ooooo|----|
+B|O--O--OO--|O--O--OO|O--O--OO--|O---|
+|1e&a2e&a3e|&a4e&a1e|&a2e&a3e&a|4e&a|
+
+
+2:48
+C|X---x-----|X---x---|X---x-----|
+S|----------|----O---|----------| |
+FT|-ooo--oooo|-oo---oo|-ooo--oooo| |
+B|O--OO-OO--|O--O--OO|O--OO-OO--| |
+|1e&a2e&a3e|&a4e&a1e|&a2e&a3e&a| |
+|
+C|X---------|X---x---|X---------| |
+S|----O-----|--------|----O-----| |
+FT|-oo---oooo|-ooo--oo|-oo---oooo| |
+B|O--O--OO--|O--OO-OO|O--O--OO--| |
+|4e&a1e&a2e|&a3e&a4e|&a1e&a2e&a| |
+| REPEAT 1x
+C|X---x-----|X---x---|X---x-----| |
+S|----------|-oo-O---|----------| |
+FT|-ooo--oooo|------oo|-ooo--oooo| |
+B|O--OO-OO--|O--O--OO|O--OO-OO--| |
+|3e&a4e&a1e|&a2e&a3e|&a4e&a1e&a| |
+|
+C|X---------|X---x---|X---------| |
+S|----O-----|--------|----O-----| |
+FT|-oo---oooo|-ooo--oo|-oo---oooo| |
+B|O--O--OO--|O--OO-OO|O--O--OO--| |
+|2e&a3e&a4e|&a1e&a2e|&a3e&a4e&a| /
+
+C|X---x-----|X---x---|X---x-----|X---|
+S|----------|----O---|----------|-gOO|
+FT|-ooo--oooo|-oo---oo|-ooo--oooo|----|
+B|O--OO-OO--|O--O--OO|O--OO-OO--|O---|
+|1e&a2e&a3e|&a4e&a1e|&a2e&a3e&a|4e&a|
+
+
+3:19
+C|x---------|x-------|x---------|
+S|----O-----|----O---|----O-----|
+B|O--O--OO--|O--O--OO|O--O--OO--|
+|1e&a2e&a3e|&a4e&a1e|&a2e&a3e&a|
+
+C|x---------|x-------|x---------|
+S|----O-----|----O---|----O-----|
+B|O--O--OO--|O--O--OO|O--O--OO--|
+|4e&a1e&a2e|&a3e&a4e|&a1e&a2e&a|
+
+C|x---------|X-------|X---------|
+S|----O-----|----O---|----O-----|
+B|O--O--OO--|O--O--OO|O--O--OO--|
+|3e&a4e&a1e|&a2e&a3e|&a4e&a1e&a|
+
+C|x---------|x-------|x---------|
+S|----O-----|----O---|----O-----|
+B|O--O--OO--|O--O--OO|O--O--OO--|
+|2e&a3e&a4e|&a1e&a2e|&a3e&a4e&a|
+
+C|x---------|------|
+S|----O-----|------|
+B|O--O--OO--|------|
+|1e&a2e&a3e|&a4e&a|
+
+END.
+
+------------------------
+from : www.zonemetal.com
+------------------------
