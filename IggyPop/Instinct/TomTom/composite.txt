@@ -125,14 +125,14 @@ A2 - I ain't doing nothin'
 A2 - That's so important
 
 B1 - I'd like to know how you deal
-B2 - Oh when I worry to darken
+B2 - Or when I want it to darken
 B2 - If I can't get in your show
 B3 - I'll take my tom tom and go, Yeah, yeah
 
 A1 - Yeah, yeah
 A2
 
-A2 - While you were mine
+A2 - While you walked by
 A2 - I got so hazy
 A2 - While you passed by
 A2 - I found my answer
@@ -142,8 +142,8 @@ B2 - The only thing I remember
 B2 - If I can't get in your show
 B4 - I'll take my tom tom and go
 
-Pure love, sunshine
-Our love is always fine
+C1 - Pure love, sunshine
+C2 - Our love is always fine
 
 B1 - We are related, you know
 B2 - I'll take my tom tom and go
@@ -160,13 +160,13 @@ C1 - Over this city
 C1 - Birds fly like devils
 C1 - Over this city
 
-So many things of no worth
-Are being shoved in my face
-When all the wealth in the world
-May work the faith in one girl
+B1 - So many things of no worth
+B2 - Are being shoved in my face
+B2 - When all the wealth in the world
+B2 - Ain't worth the faith in one girl
 
-That's why I'm sad to say
-Till there can be no hate, oh
-The only one they come through
-Is absolute
-You
+B2 - That's why I'm sayin' and sayin'
+B2 - Till there can be no erasure
+B2 - The only one that comes through
+B5 - Is absolute
+B6 - You
