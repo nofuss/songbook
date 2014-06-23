@@ -100,10 +100,15 @@ B2 - place  - A place where
 B3 - nothing - Nothing ever 
 B4 - happens
 
-A1 - There is a party, everyone is there.
-A2 - Everyone will leave at exactly the same time.
-A3 - Its hard to imagine that nothing at all
-A4 - could be so exciting, could so much fun.
+A1 - There is a party
+A2 - everyone is there.
+A3 - Everyone will leave 
+A4 - at exactly the same time.
+
+A1 - Its hard to imagine that 
+A2 - nothing at all
+A3 - could be so exciting
+A4 - could so much fun.
 
 B1 - Heaven - Heaven is a 
 B2 - place  - A place where 
@@ -115,10 +120,15 @@ B2 - place  - A place where
 B3 - nothing - Nothing ever 
 B4 - happens
 
-A1 - When this kiss is over it will start again.
-A2 - It will not be any different, it will be exactly the same.
-A3 - It's hard to imagine that nothing at all
-A4 - could be so exciting, could be so much fun.
+A1 - When this kiss is over it will 
+A2 - start again.
+A3 - It will not be any different
+A4 - it will be exactly the same.
+
+A1 - It's hard to imagine that 
+A2 - nothing at all
+A3 - could be so exciting
+A4 - could be so much fun.
 
 B1 - Heaven - Heaven is a 
 B2 - place  - A place where 
