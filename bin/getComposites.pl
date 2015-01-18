@@ -10,6 +10,8 @@ mkdir $targetDir unless -d $targetDir;
 
 find({wanted => \&wanted, no_chdir => 1}, $sourceDir);
 
+print "done\n";
+
 sub wanted {
     my $src = $File::Find::name;
     return unless $src =~ /composite.txt$/;
@@ -19,11 +21,14 @@ sub wanted {
     pop @chunks;
     my $filename = join('-', @chunks) . '.txt';
 
-    if (!-e "$targetDir/$filename" || -m "$targetDir/$filename" < -m "$src") {
+    print "copying $filename...\n";
+
+    #if (!-e "$targetDir/$filename" || -m "$targetDir/$filename" < -m "$src") {
         open IN, "<$src";
         open OUT, ">$targetDir/$filename";
         print OUT while <IN>;
         close IN;
         close OUT;
-    }
+    #}
+
 }
