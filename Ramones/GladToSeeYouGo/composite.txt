@@ -169,12 +169,12 @@ A1
 A1 - Gonna take a chance on her 
 A1 - One bullet in the cylinder
 A2 - And in a moment of passion 
-A2 - Get the glory like Charles Manson
+A3 - Get the glory like Charles Manson
 
 A1 - Gonna smile, I'm gonna laugh 
 A1 - You're gonna get a blood bath
 A2 - And in a moment of passion 
-A2 - Get the glory like Charles Manson -  You gotta 
+A3 - Get the glory like Charles Manson -  You gotta 
 
 B1 - go go go go Goodbye, glad to see you 
 B1 - go go go go Goodbye, glad to see you 
@@ -196,12 +196,12 @@ C4 - bore
 D1 - I need somebody good
 D1 - I need a miracle
 D2 - Should I take a chance on her?
-D2 - One bullet in the cylinder
+D3 - One bullet in the cylinder
 
 D1 - Gonna smile, I'm gonna laugh
 D1 - They're gonna want my autograph
 D2 - And in a moment of passion 
-D2 - Get the glory like Charles Manson - you gotta 
+D3 - Get the glory like Charles Manson - you gotta 
 
 E1 - go go go go Goodbye, glad to see you 
 E1 - go go go go Goodbye, glad to see you 
