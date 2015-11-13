@@ -1,23 +1,39 @@
-AC/DC – Thundestruck or You shook me all night long
+AC/DC
+    - Thunderstruck
+    - You Shook Me All Night Long
 
-METALLICA – Enter Sandman
+METALLICA
+    - Enter Sandman
 
-ROLLING STONES – Start me up
+ROLLING STONES
+    – Start me up
 
-PINK FLOYD – Another brick in the wall pt.2
+PINK FLOYD
+    – Another brick in the wall pt.2
 
-AEROSMITH – Walk this way
+AEROSMITH
+    – Walk this way
 
-NIRVANA – Come as you are
+NIRVANA
+    – Come as you are
 
-THE DOORS – Love me two times
+THE DOORS
+    – Love me two times
 
-THE WHO – Baba o’ O'Reiley
+THE WHO
+    – Baba o’ O'Reiley
 
-GUNS’N’ROSES – Paradise City or Sweet child o’mine
+GUNS’N’ROSES
+    – Paradise City
+    - Sweet child o’mine
 
-QUEEN – We are the champions
+QUEEN
+    – We Are The Champions
 
-DEEP PURPLE – Smoke on the water
+DEEP PURPLE
+    – Smoke on the water
 
-LED ZEPPELIN – Whole lotta love or Kashmir
+LED ZEPPELIN
+    – Whole Lotta Love
+    - Kashmir
+    - Immigrant Song
