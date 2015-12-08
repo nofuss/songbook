@@ -1,1 +1,1 @@
-Tempo yes
+Tempo 128
