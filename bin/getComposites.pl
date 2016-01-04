@@ -8,6 +8,9 @@ my $sourceDir = '../';
 
 mkdir $targetDir unless -d $targetDir;
 
+print "clearing $targetDir\n";
+unlink glob "'$targetDir/*.*'";
+
 find({wanted => \&wanted, no_chdir => 1}, $sourceDir);
 
 print "done\n";
@@ -23,12 +26,10 @@ sub wanted {
 
     print "copying $filename...\n";
 
-    #if (!-e "$targetDir/$filename" || -m "$targetDir/$filename" < -m "$src") {
-        open IN, "<$src";
-        open OUT, ">$targetDir/$filename";
-        print OUT while <IN>;
-        close IN;
-        close OUT;
-    #}
-
+    open IN, "<$src";
+    open OUT, ">$targetDir/$filename";
+    print OUT while <IN>;
+    close IN;
+    close OUT;
 }
+
