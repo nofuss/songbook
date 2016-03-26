@@ -7,7 +7,6 @@ my @songs = qw(
 07-DeathOfMe
 08-ILostMyMind
 09-ARealCoolTime
-10-ImNotJesus
 11-ByeByeBaby
 );
 
@@ -17,6 +16,7 @@ my @doneSongs = qw(
 04-WeaselFace
 05-GoLilCamaro
 06-IKnowBetterNow
+10-ImNotJesus
 12-WormMan
 );
 
