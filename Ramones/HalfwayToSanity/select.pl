@@ -9,7 +9,6 @@ my @songs = qw(
 09-ARealCoolTime
 10-ImNotJesus
 11-ByeByeBaby
-12-WormMan
 );
 
 my @doneSongs = qw(
@@ -18,6 +17,7 @@ my @doneSongs = qw(
 04-WeaselFace
 05-GoLilCamaro
 06-IKnowBetterNow
+12-WormMan
 );
 
 print @songs[rand @songs] . "\n";
