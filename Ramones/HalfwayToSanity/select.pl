@@ -4,7 +4,6 @@ use warnings;
 
 my @songs = qw(
 03-GardenOfSerenity
-06-IKnowBetterNow
 07-DeathOfMe
 08-ILostMyMind
 09-ARealCoolTime
@@ -18,6 +17,7 @@ my @doneSongs = qw(
 02-BopTilYouDrop
 04-WeaselFace
 05-GoLilCamaro
+06-IKnowBetterNow
 );
 
 print @songs[rand @songs] . "\n";
