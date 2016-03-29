@@ -4,7 +4,6 @@ use warnings;
 
 my @songs = qw(
 03-GardenOfSerenity
-07-DeathOfMe
 08-ILostMyMind
 09-ARealCoolTime
 11-ByeByeBaby
@@ -16,8 +15,9 @@ my @doneSongs = qw(
 04-WeaselFace
 05-GoLilCamaro
 06-IKnowBetterNow
+07-DeathOfMe
 10-ImNotJesus
 12-WormMan
 );
 
-print @songs[rand @songs] . "\n";
+print $songs[rand @songs] . "\n";
