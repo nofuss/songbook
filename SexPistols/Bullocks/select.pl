@@ -2,7 +2,7 @@
 use strict;
 use warnings;
 
-my @songs = qw(
+my @songsToDo = qw(
 01-HolidaysInTheSun
 02-Bodies
 03-NoFeelings
@@ -17,4 +17,8 @@ my @songs = qw(
 12-EMI
 );
 
-print $songs[rand @songs] . "\n";
+my @songsDone = qw(
+);
+
+
+print $songsToDo[rand @songsToDo] . "\n";
