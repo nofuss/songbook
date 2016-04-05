@@ -125,9 +125,9 @@ C1 - I can see through your bullshit with my
 C2 - X-Ray specs, my X-Ray 
 
 A1 - specs. 
-A1 -              my X-Ray
-A2 - specs, yeah.
-A3
+A2 -              my X-Ray
+A3 - specs, yeah.
+A4
 
 A1 - Today I'm dragging ass, because last 
 A2 - Night I stayed up late.
