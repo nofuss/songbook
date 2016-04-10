@@ -10,7 +10,6 @@ my @songsToDo = qw(
 07-YoureTheOnlyOne
 09-CodenamePeabrain
 11-RobotsInMyDreams
-12-MurderOnMyMind
 13-Caveman
 );
 
@@ -19,6 +18,7 @@ my @songsDone = qw(
 05-X-RaySpecs
 08-INeedSomeBrainDamage
 10-PhantomMaggot
+12-MurderOnMyMind
 14-ICameFromTheFuture
 );
 
