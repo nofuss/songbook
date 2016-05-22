@@ -13,17 +13,17 @@ my @songsToDo = qw(
 09-PumpkinHead
 10-ScarecrowMan
 11-DieMonsterDie
-12-LivingHell
 13-DescendingAngel
 14-Them
 15-FiendClub
-16-HuntingHumans
 17-Helena
-18-KongUnleashed
 );
 
 my @songsDone = qw(
 02-TheForbiddenZone
+12-LivingHell
+16-HuntingHumans
+18-KongUnleashed
 );
 
 
