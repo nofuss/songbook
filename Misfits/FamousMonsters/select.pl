@@ -6,7 +6,6 @@ my @songsToDo = qw(
 01-KongAtTheGates
 03-LostInSpace
 04-DustToDust
-05-CrawlingEye
 06-WitchHunt
 07-Scream
 08-SaturdayNight
@@ -21,6 +20,7 @@ my @songsToDo = qw(
 
 my @songsDone = qw(
 02-TheForbiddenZone
+05-CrawlingEye
 12-LivingHell
 16-HuntingHumans
 18-KongUnleashed
