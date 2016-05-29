@@ -12,7 +12,6 @@ my @songsToDo = qw(
 09-PumpkinHead
 10-ScarecrowMan
 11-DieMonsterDie
-13-DescendingAngel
 14-Them
 15-FiendClub
 17-Helena
@@ -22,6 +21,7 @@ my @songsDone = qw(
 02-TheForbiddenZone
 05-CrawlingEye
 12-LivingHell
+13-DescendingAngel
 16-HuntingHumans
 18-KongUnleashed
 );
