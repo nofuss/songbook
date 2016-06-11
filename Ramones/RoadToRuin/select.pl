@@ -3,7 +3,7 @@ use strict;
 use warnings;
 
 my @songsToDo = qw(
-    01-IJustWantToHaveSoemthingToDo
+    01-IJustWantToHaveSomethingToDo
     02-IWantedEverything
     03-DontComeClose
     04-IDontWantYou
