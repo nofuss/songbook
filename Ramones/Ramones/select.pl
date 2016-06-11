@@ -15,11 +15,11 @@ my @songsToDo = qw(
     10-ListenToMyHeart
     11-53rdAnd3rd
     12-LetsDance
-    13-IDontWannaWalkAroundWithYou
     14-TodayYourLoveTomorrowTheWorld
 );
 
 my @songsDone = qw(
+    13-IDontWannaWalkAroundWithYou
 );
 
 
