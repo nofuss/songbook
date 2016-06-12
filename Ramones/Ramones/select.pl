@@ -10,7 +10,6 @@ my @songsToDo = qw(
     07-IDontWannaGoDownToTheBasement
     08-Loudmouth
     09-HavanAffair
-    10-ListenToMyHeart
     11-53rdAnd3rd
     12-LetsDance
 );
@@ -18,6 +17,7 @@ my @songsToDo = qw(
 my @songsDone = qw(
     04-IWannaBeYourBoyfriend
     06-NowIWannaSniffSomeGlue
+    10-ListenToMyHeart
     13-IDontWannaWalkAroundWithYou
     14-TodayYourLoveTomorrowTheWorld
 );
