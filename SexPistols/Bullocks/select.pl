@@ -11,13 +11,13 @@ my @songsToDo = qw(
 06-Problems
 07-Seventeen
 08-AnarchyInTheUK
-09-Submission
 10-PrettyVacant
 11-NewYork
 12-EMI
 );
 
 my @songsDone = qw(
+09-Submission
 );
 
 
