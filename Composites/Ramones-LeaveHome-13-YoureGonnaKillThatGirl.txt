@@ -177,12 +177,12 @@ B2 - My heart stood still and skipped a beat
 B1 - Then he knocked her on the floor
 B3 - But he wanted a little bit more
 
-A1 - Kill kill kill kill kill that girl, he's gonna
-A2 - Kill kill kill kill kill that girl, he's gonna
-A3 - Kill kill kill kill kill that girl, he's gonna
-A4 - Kill kill kill kill kill that girl, he's gonna
+A1 - Kill kill kill kill, kill that girl, he's gonna
+A2 - Kill kill kill kill, kill that girl, he's gonna
+A3 - Kill kill kill kill, kill that girl, he's gonna
+A4 - Kill kill kill kill, kill that girl, he's gonna
 
-A1 - Kill kill kill kill kill that girl, he's gonna
-A2 - Kill kill kill kill kill that girl, he's gonna
-A3 - Kill kill kill kill kill that girl, he's gonna
+A1 - Kill kill kill kill, kill that girl, he's gonna
+A2 - Kill kill kill kill, kill that girl, he's gonna
+A3 - Kill kill kill kill, kill that girl, he's gonna
 A5 - Kill
