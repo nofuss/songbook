@@ -7,7 +7,6 @@ my @songsToDo = qw(
 02-SoCool
 03-StupidGames
 04-FallForMe
-05-Crashing
 07-GoAway
 09-BloodBathAtBurgerKing
 10-Veronica
@@ -17,6 +16,7 @@ my @songsToDo = qw(
 );
 
 my @songsDone = qw(
+05-Crashing
 06-LostInSpace
 08-Rebound
 );
