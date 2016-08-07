@@ -3,7 +3,6 @@ use strict;
 use warnings;
 
 my @songsToDo = qw(
-02-SoCool
 03-StupidGames
 10-Veronica
 11-RepeatOffender
@@ -11,6 +10,7 @@ my @songsToDo = qw(
 
 my @songsDone = qw(
 01-Radio
+02-SoCool
 04-FallForMe
 05-Crashing
 06-LostInSpace
