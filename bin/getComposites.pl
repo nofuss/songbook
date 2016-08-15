@@ -26,11 +26,16 @@ sub wanted {
     return unless $src =~ /composite.txt$/;
     return unless /$sourceDir(.*)/;
     my @chunks = split /\//, $1;
-    pop @chunks;
-    my $filename = join('-', @chunks) . '.txt';
-    print "copying $filename...\n";
+
+    pop @chunks; # get rid of composite.txt filename
+    my $subDir = shift @chunks; # grab band name
+    my $filename = join('-', @chunks) . '.txt'; # make everything else pretty
+
+    print "copying $subDir/$filename...\n";
+    mkdir "$targetDir/$subDir" unless -d "$targetDir/$subDir";
+
     open IN, "<$src";
-    open OUT, ">$targetDir/$filename";
+    open OUT, ">$targetDir/$subDir/$filename";
     print OUT while <IN>;
     close IN;
     close OUT;
