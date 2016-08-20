@@ -10,8 +10,8 @@ my @songsToDo = qw(
 07-Scream
 08-SaturdayNight
 09-PumpkinHead
-10-ScarecrowMan
 11-DieMonsterDie
+13-DescendingAngel
 14-Them
 15-FiendClub
 17-Helena
@@ -20,8 +20,8 @@ my @songsToDo = qw(
 my @songsDone = qw(
 02-TheForbiddenZone
 05-CrawlingEye
+10-ScarecrowMan
 12-LivingHell
-13-DescendingAngel
 16-HuntingHumans
 18-KongUnleashed
 );
