@@ -1,4 +1,4 @@
-Teenage Bottlerocket
+Teenage Bottlerocket - In My Head
 
 Tempo 172
 
@@ -165,9 +165,9 @@ B1  - brain should be a crime.
 B2  - Tried to carve you out by sticking 
 
 B1  - needles in my eyes.
-B2  - You got a gun to my head you're sticking up my 
+B2a - You got a gun to my head you're sticking up my 
 B1  - brain, because you're stuck in my mind.
-B2  - I'd do anything to get you out
+B2b - I'd do anything to get you out
 
 A1  - In my head, you're in my head, you're in my
 A1  - In my head, stuck in my head, you're in my
