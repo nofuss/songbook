@@ -160,9 +160,9 @@ A1  - In my head, you're in my head, you're in my
 A1  - In my head, stuck in my head, you're in my 
 
 B1  - head
-B2  - The way you're pounding on my 
+B2a - The way you're pounding on my 
 B1  - brain should be a crime.
-B2  - Tried to carve you out by sticking 
+B2a - Tried to carve you out by sticking 
 
 B1  - needles in my eyes.
 B2a - You got a gun to my head you're sticking up my 
