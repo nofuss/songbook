@@ -12,11 +12,11 @@ my @songsToDo = qw(
 07-BeatenDown
 08-IWannaGoToMacchuPicchuBeforeIDie
 09-IfYoureNotHappyYouShouldGo
-10-KillingMeWithKindness
 12-ALongWay
 );
 
 my @songsDone = qw(
+10-KillingMeWithKindness
 11-FaceTheMusic
 );
 
