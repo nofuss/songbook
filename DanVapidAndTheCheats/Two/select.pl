@@ -9,13 +9,13 @@ my @songsToDo = qw(
 04-ColdAndRainyDays
 05-PanicInTheStreets
 06-Invader
-07-BeatenDown
 08-IWannaGoToMacchuPicchuBeforeIDie
 09-IfYoureNotHappyYouShouldGo
 12-ALongWay
 );
 
 my @songsDone = qw(
+07-BeatenDown
 10-KillingMeWithKindness
 11-FaceTheMusic
 );
