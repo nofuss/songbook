@@ -101,16 +101,16 @@ Eb|^7----^7----^7----^7----^7----^7----^7----^7----^3-^3-^3-^3-^4-^4-^4-^4-^5-^5
 
 A1 - We be-
 A1 - come
-A1 - Erupt in violence
-A1 - Destroy the silence
-A2 - Our time has come, go!
+A1 - erupt in violence
+A1 - destroy the silence
+A2 - our time has come, go!
 
 B1 - We are the outcast, the 
 B2 - ancient descendants, the 
 B1 - ones who've been falling and
 B2 - would you still die for the 
 B1 - dead, yet still living
-B2 - Starved of a time that's now 
+B2 - starved of a time that's now 
 
 C1 - gone
 C2
@@ -119,20 +119,20 @@ C4 - hungry children
 
 A1 - We be-
 A1 - come
-A1 - Erupt in violence
-A1 - Seduce the silence
-A2 - Our time has come, go!
+A1 - erupt in violence
+A1 - seduce the silence
+A2 - our time has come, go!
 
 B1 - We are the kindred, Hell's 
 B2 - ancient descendant slaves
-B1 - Begging the night not to 
+B1 - begging the night not to 
 B2 - go, would you still die for the 
 B1 - dead, yet still living
-B2 - Starved of a life that's now 
+B2 - starved of a life that's now 
 
 C1 - gone
 C2
-C3 - We are the children, the
+C3 - we are the children, the
 C4 - hungry children
 
 A1b - We be-
