@@ -5,13 +5,13 @@ use warnings;
 my @songsToDo = qw(
 01-ImAContrarian
 02-MiracleDrug
-03-LiveItDown
 04-ColdAndRainyDays
 08-IWannaGoToMacchuPicchuBeforeIDie
 12-ALongWay
 );
 
 my @songsDone = qw(
+03-LiveItDown
 05-PanicInTheStreets
 06-Invader
 07-BeatenDown
