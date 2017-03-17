@@ -18,9 +18,9 @@ my @songsToDo = qw(
 my @songsDone = qw(
 );
 
-for my $song (@songsToDo) {
-    print `mkdir $song`;
-    print `cp tabs.et6 $song`;
-}
+#for my $song (@songsToDo) {
+    #print `mkdir $song`;
+    #print `cp tabs.et6 $song`;
+#}
 
-#print $songsToDo[rand @songsToDo] . "\n";
+print $songsToDo[rand @songsToDo] . "\n";
