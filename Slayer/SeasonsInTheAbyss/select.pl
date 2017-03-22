@@ -7,7 +7,6 @@ my @songsToDo = qw(
 03-SpiritInBlack
 04-ExpendableYouth
 05-DeadSkinMask
-06-HallowedPoint
 07-SkeletonsOfSociety
 08-Temptation
 09-BornOfFire
@@ -15,6 +14,7 @@ my @songsToDo = qw(
 
 my @songsDone = qw(
 01-WarEnsemble
+06-HallowedPoint
 10-SeasonsInTheAbyss
 );
 
