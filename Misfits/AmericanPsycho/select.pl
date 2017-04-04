@@ -7,7 +7,6 @@ my @songsToDo = qw(
 03-SpeakOfTheDevil
 06-FromHellTheyCame
 09-Resurrection
-10-ThisIslandEarth
 11-CrimsonGhost
 12-DayOfTheDead
 13-TheHaunting
@@ -22,6 +21,7 @@ my @songsDone = qw(
 05-TheHunger
 07-DigUpHerBones
 08-Blacklight
+10-ThisIslandEarth
 15-HateTheLivingLoveTheDead
 );
 
