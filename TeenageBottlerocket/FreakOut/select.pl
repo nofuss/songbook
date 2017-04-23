@@ -3,7 +3,6 @@ use strict;
 use warnings;
 
 my @songsToDo = qw(
-    01-FreakOut
     02-Headbanger
     03-CruisingForChicks
     04-Necrocomicon
@@ -12,7 +11,6 @@ my @songsToDo = qw(
     07-PunkHouseOfHorror
     08-NeverGonnaTellYou
     09-InThePit
-    10-MutilateMe
     11-WhoKilledSensei
     12-Radical
     13-Summertime
@@ -20,7 +18,8 @@ my @songsToDo = qw(
 );
 
 my @songsDone = qw(
-
+    01-FreakOut
+    10-MutilateMe
 );
 
 #for my $song (@songsToDo) {
