@@ -10,13 +10,13 @@ my @songsToDo = qw(
     06-DoneWithLove
     07-PunkHouseOfHorror
     08-NeverGonnaTellYou
-    09-InThePit
     13-Summertime
     14-GoWithTheFlow
 );
 
 my @songsDone = qw(
     01-FreakOut
+    09-InThePit
     10-MutilateMe
     11-WhoKilledSensei
     12-Radical
