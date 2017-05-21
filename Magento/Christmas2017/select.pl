@@ -5,7 +5,6 @@ use warnings;
 my @songsToDo = qw(
 DireStraits-SultansOfSwing
 JarabeDePalo-LaFlaca
-JoanJettAndTheBlackhearts-ILoveRockNRoll
 Aerosmith-WalkThisWay
 AcDc-Thunderstruck
 MikeOldfield-MoonlightShadow
@@ -15,6 +14,7 @@ my @songsDone = qw(
 BonJovi-LivinOnAPrayer
 ThePolice-MessageInABottle
 JohnFogerty-RockinAllOverTheWorld
+JoanJettAndTheBlackhearts-ILoveRockNRoll
 );
 
 #for my $song (@songsToDo) {
