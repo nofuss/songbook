@@ -13,7 +13,7 @@ my @songsToDo = qw(
 08-AnnasSong
 09-OnMyOwn
 10-TotallyStupid
-11-CrawlingBackTo You
+11-CrawlingBackToYou
 12-WarningDevice
 13-WastingTime
 14-IKnowYouKnow
@@ -23,9 +23,9 @@ my @songsDone = qw(
 
 );
 
-for my $song (@songsToDo) {
-    print `mkdir $song`;
-    print `cp tabs.et6 $song`;
-}
+#for my $song (@songsToDo) {
+    #print `mkdir $song`;
+    #print `cp tabs.et6 $song`;
+#}
 
 print $songsToDo[rand @songsToDo] . "\n";
