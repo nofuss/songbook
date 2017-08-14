@@ -31,7 +31,6 @@ my @roundOne = qw(
 26-OutOfNowhere
 27-SoftlyAsInAMorningSunrise
 28-SolarJazz
-29-Stablemates
 30-StellaByStarlight
 31-StraightNoChaser
 32-Summertime
@@ -42,6 +41,7 @@ my @roundOne = qw(
 );
 
 my @roundTwo = qw(
+29-Stablemates
 );
 
 #for my $song (@roundOne) {
