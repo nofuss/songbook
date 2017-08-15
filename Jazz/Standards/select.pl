@@ -12,7 +12,6 @@ my @roundOne = qw(
 07-Cherokee
 08-DonnaLee
 09-Four
-10-GiantSteps
 11-GreenDolphinStreet
 12-GroovinHigh
 13-HaveYouMetMissJones
@@ -41,6 +40,7 @@ my @roundOne = qw(
 );
 
 my @roundTwo = qw(
+10-GiantSteps
 29-Stablemates
 );
 
