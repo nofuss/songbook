@@ -4,7 +4,6 @@ use warnings;
 
 my @songsToDo = qw(
 13-WastingTime
-14-IKnowYouKnow
 );
 
 my @songsDone = qw(
@@ -20,6 +19,7 @@ my @songsDone = qw(
 10-TotallyStupid
 11-CrawlingBackToYou
 12-WarningDevice
+14-IKnowYouKnow
 );
 
 #for my $song (@songsToDo) {
