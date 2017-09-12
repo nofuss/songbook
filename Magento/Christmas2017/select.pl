@@ -3,18 +3,18 @@ use strict;
 use warnings;
 
 my @songsToDo = qw(
-DireStraits-SultansOfSwing
 JarabeDePalo-LaFlaca
 AcDc-Thunderstruck
 MikeOldfield-MoonlightShadow
+BonJovi-LivinOnAPrayer
+ThePolice-MessageInABottle
+Aerosmith-WalkThisWay
 );
 
 my @songsDone = qw(
-BonJovi-LivinOnAPrayer
-ThePolice-MessageInABottle
+DireStraits-SultansOfSwing
 JohnFogerty-RockinAllOverTheWorld
 JoanJettAndTheBlackhearts-ILoveRockNRoll
-Aerosmith-WalkThisWay
 );
 
 #for my $song (@songsToDo) {
