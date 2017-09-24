@@ -2,6 +2,41 @@ John Fogerty - Rockin' All Over the World
 
 Tempo 138
 
+A1
+
+E |------------------------------------------------------------------------------------------------      
+B |-3-----------------------------------------3----------------------------------------------------      
+G |-2-----------4-----------2-----2-----4-----2-----------------4-----------2-----2-----4----------      
+D |-0-----0-----0-----0-----0-----0-----0-----0-----------0-----0-----0-----0-----0-----0-----0----      
+A |------------------------------------------------------------------------------------------------      
+E |------------------------------------------------------------------------------------------------      
+    $           *           *           *           $           *           *           *
+
+A2
+
+E |------------------------------------------------------------------------------------------------      
+B |------------------------------------------------------------------------------------------------      
+G |-0-----------------------------------------0----------------------------------------------------      
+D |-0-----------2-----------0-----0-----2-----0-----------------2-----------0-----0-----2----------      
+A |------------------------------------------------------------------------------------------------      
+E |-3-----3-----3-----3-----3-----3-----3-----3-----------3-----3-----3-----3-----3-----3-----3----      
+    $           *           *           *           $           *           *           *
+
+A3
+
+E |------------------------------------------------------------------------------------------------      
+B |-3----------------------------------------------------------------------------------------------      
+G |-2-----------4-----------2-----2-----4-----2----------------------------------------------------      
+D |-0-----0-----0-----0-----0-----0-----0-----2-----------------4-----------2-----2-----4----------      
+A |-------------------------------------------0-----------0-----0-----0-----0-----0-----0-----0----      
+E |------------------------------------------------------------------------------------------------      
+    $           *           *           *           $           *           *           *
+
+
+
+
+
+
 
 E |-------------------------------------------------------------10---------------------------------      
 B |-------------------------------------------------10----------10---------------------------------      
@@ -21,7 +56,7 @@ A |-----------------------------------------------------------------------------
 E |-------------------------------------------------------------------------------------------2----      
     $           *           *           *           $           *           *           *
 
-D D
+A1+
 
 E |------------------~14---------------------------------------------------------------------------      
 B |------------------~15----------------------------------10---------------------------------------      
@@ -31,7 +66,7 @@ A |-----------------------------------------------------------------------------
 E |------------------------------------------------------------------------------------------------      
     $           *           *           *           $           *           *           *
 
-D D -           - ah
+A1+ -           - ah
 
 E |------------------~14------------------------------------------~14------------------------------      
 B |------------------~15------------------------------------------~15------------------------------      
@@ -42,53 +77,53 @@ E |-----------------------------------------------------------------------------
     $           *           *           *           $           *           *           *
 
 
-D D - here we are and here we are and here we go
-G G - all aboard 'cause we're hitting the road, here we 
-D A - go, rockin' all over the
-D D - world     - ah 
+A1  - here we are and here we are and here we go
+A2  - all aboard 'cause we're hitting the road, here we 
+A3  - go, rockin' all over the
+A1  - world     - ah 
 
-D D - giddy-up and giddy-up and get away
-G G - we're going crazy and we're going today, here we 
-D A - go, rockin' all over the 
-D D - world     - and I
+A1  - giddy-up and giddy-up and get away
+A2  - we're going crazy and we're going today, here we 
+A3  - go, rockin' all over the 
+A1  - world     - and I
 
-D D - like it, I like it, I like it, I like it, I 
-G G - li-li-like it, li-li-like, here we
-D A - go, rockin' all over the 
-D D - world
+A1  - like it, I like it, I like it, I like it, I 
+A2  - li-li-like it, li-li-like, here we
+A3  - go, rockin' all over the 
+A1  - world
 
-D D - (guitar)
-G G
-D A
-D D
+A1  - (guitar)
+A2 
+A3 
+A1 
 
-D D - (piano)
-G G
-D A
-D D             - I'm 
+A1  - (piano)
+A2 
+A3 
+A1              - I'm 
 
-D D - gonna tell your mama what you're gonna do, you
-G G - come on out with your dancing shoes, here we
-D A - go, rockin' all over the 
-D D - world     - and I
+A1  - gonna tell your mama what you're gonna do, you
+A2  - come on out with your dancing shoes, here we
+A3  - go, rockin' all over the 
+A1  - world     - and I
 
-D D - like it, I like it, I like it, I like it, I 
-G G - li-li-like it, li-li-like, here we
-D A - go, rockin' all over the 
-D D - world     - and I
+A1  - like it, I like it, I like it, I like it, I 
+A2  - li-li-like it, li-li-like, here we
+A3  - go, rockin' all over the 
+A1  - world     - and I
 
-D D - like it, I like it, I like it, I like it, I 
-G G - li-li-like it, li-li-like, here we
-D A - go, rockin' all over the 
-D D - world     - and I
+A1  - like it, I like it, I like it, I like it, I 
+A2  - li-li-like it, li-li-like, here we
+A3  - go, rockin' all over the 
+A1  - world     - and I
 
-D D - like it, I like it, I like it, I like it, I 
-G G - li-li-like it, li-li-like, here we
-D A - go, rockin' all over the 
-D D - world     - and I
+A1  - like it, I like it, I like it, I like it, I 
+A2  - li-li-like it, li-li-like, here we
+A3  - go, rockin' all over the 
+A1  - world     - and I
 
-D D - like it, I like it, I like it, I like it, I 
-G G - li-li-like it, li-li-like, here we
-D A - go, rockin' all over the 
-D D - world
+A1  - like it, I like it, I like it, I like it, I 
+A2  - li-li-like it, li-li-like, here we
+A3  - go, rockin' all over the 
+A1  - world
 
