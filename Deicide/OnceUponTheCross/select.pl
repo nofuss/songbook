@@ -3,7 +3,6 @@ use strict;
 use warnings;
 
 my @songsToDo = qw(
-02-ChristDenied
 05-TrickOrBetrayed
 06-TheyAreTheChildrenOfTheUnderworld
 07-BehindTheLightThouShallRise
@@ -13,6 +12,7 @@ my @songsToDo = qw(
 
 my @songsDone = qw(
 01-OnceUponTheCross
+02-ChristDenied
 03-WhenSatanRulesHisWorld
 04-KillTheChristian
 );
