@@ -24,8 +24,11 @@ my @songsToDo = qw(
 01-GimmeShelter
 );
 
-my @songsDone = qw(
+my @songsStarted = qw(
 13-MidnightRambler
+);
+
+my @songsDone = qw(
 );
 
 
