@@ -142,7 +142,7 @@ A1  - take a piece of my
 A1  - mind
 
 C1  - my life is slipping away
-C2  - I'm aging every day
+C2  - I'm ageing every day
 C1  - but even when I'm grey
 C2  - I'll still be grey my way
 
