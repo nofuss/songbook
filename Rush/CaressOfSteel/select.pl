@@ -4,8 +4,6 @@ use warnings;
 
 my @songsToDo = qw(
 01-BastilleDay
-02-IThinkImGoingBald
-03-LakesidePark
 04a-TheNecromancer-IntoDarkness
 04b-TheNecromancer-UnderTheShadow
 04c-TheNecromancer-ReturnOfThePrince
@@ -18,6 +16,8 @@ my @songsToDo = qw(
 );
 
 my @songsDone = qw(
+02-IThinkImGoingBald
+03-LakesidePark
 );
 
 #for my $song (@songsToDo) {
