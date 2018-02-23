@@ -3,7 +3,6 @@ use strict;
 use warnings;
 
 my @songsToDo = qw(
-01-FindingMyWay
 02-NeedSomeLove
 03-TakeAFriend
 04-HereAgain
@@ -14,6 +13,7 @@ my @songsToDo = qw(
 );
 
 my @songsDone = qw(
+01-FindingMyWay
 );
 
 #for my $song (@songsToDo) {
