@@ -3,7 +3,6 @@ use strict;
 use warnings;
 
 my @songsToDo = qw(
-06-InTheMood
 );
 
 my @songsStarted = qw(
@@ -12,6 +11,7 @@ my @songsStarted = qw(
 03-TakeAFriend
 04-HereAgain
 05-WhatYoureDoing
+06-InTheMood
 07-BeforeAndAfter
 08-WorkingMan
 );
@@ -24,4 +24,5 @@ my @songsDone = qw(
     #print `cp tabs.et6 $song`;
 #}
 
-print $songsToDo[rand @songsToDo] . "\n";
+#print $songsToDo[rand @songsToDo] . "\n";
+print $songsStarted[rand @songsStarted] . "\n";
