@@ -17,7 +17,7 @@ unlink glob "'$targetDir/*.*'";
 
 chdir $baseDir;
 
-find({wanted => \&wanted, no_chdir => 1}, $sourceDir);
+find({wanted => \&wanted, no_chdir => 1, follow_fast => 1}, $sourceDir);
 
 print "done\n";
 
