@@ -84,29 +84,6 @@ E |-----------------------------------------------------------------------------
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 A0
 A1
 A2
@@ -126,7 +103,7 @@ A2  - ooh ooh           - well, I've been
 A1  - haunted in my sleep, you've been staring in my dreams, Lord I 
 A2  - miss you child    - I've been 
 A1  - waiting in the hall, been waiting on your call, when the 
-A2  - phone rings it's just some friends of mine that say, "Hey, 
+A2  - phone rings, it's just some friends of mine that say, "Hey, 
 
 A1  - what's the matter man? We're gonna come around at twelve with some Puerto Rican 
 A2  - girls that are just dyin' to meet you     - we're gonna 
@@ -141,7 +118,7 @@ A2  - aah aah
 B1  - ooh baby why you wait so long
 B2    
 B1  - oh baby why you wait so long
-B2  -       - won't you come on! come on!
+B3  -       - won't you come on! come on!
 
 A1
 
@@ -168,7 +145,7 @@ A1  - walking Central Park, singing after dark, people think
 E |------------------------------------------------------------------------------------------------      
 B |------------------------------------------------------------------------------------------------      
 G |-------------------------------------------------------------------------------12-13-14---------      
-D |-------7-----5-----------5-----------5--7--------------7-----5----------------------------------      
+D |-------7-----5-----------5-----------5-h7--------------7-----5----------------------------------      
 A |-0-----------------7-----------7-----------------0-----------------5-----7----------------------      
 E |------------------------------------------------------------------------------------------------      
     $           *           *           *           $           *           *           *
@@ -188,7 +165,7 @@ A1  - stumbling on my feet, shuffling through the street
 E |------------------------------------------------------------------------------------------------      
 B |------------------------------------------------------------------------------------------------      
 G |------------------------------------------------------------------------------------------------      
-D |-------7-----5-----------5-----------5--7--------------7-----5-----------------5-----5--7-------      
+D |-------7-----5-----------5-----------5-h7--------------7-----5-----------------5-----5-h7-------      
 A |-0-----------------7-----------7-----------------0-----------------5-----7----------------------      
 E |------------------------------------------------------------------------------------------------      
     $           *           *           *           $           *           *           *
@@ -208,7 +185,7 @@ A1  - sometimes I want to say to my-
 E |------------------------------------------------------------------------------------------------      
 B |------------------------------------------------------------------------------------------------      
 G |-------------------------------------------------------------------------------12-13-14---------      
-D |-------7-----------5-----------------5--7--------------7-----------5----------------------------      
+D |-------7-----------5-----------------5-h7--------------7-----------5----------------------------      
 A |-0-----------------------------7-----------------0----------------------------------------------      
 E |------------------------------------------------------------------------------------------------      
     $           *           *           *           $           *           *           *
@@ -223,35 +200,23 @@ A |-5-----------7-----------8-----------7-----------5-----------3-----------2---
 E |------------------------------------------------------------------------------------------------
     $           *           *           *           $           *           *           *
 
-Oooh oooh oooh oooh oooh oooh oooh
-Oooh oooh oooh oooh oooh oooh oooh
-Oooh oooh oooh
+A1  - ooh ooh ooh ooh ooh, ooh ooh ooh ooh ooh ooh ooh, I won't
+A2  - miss you child        - I guess I'm 
+A1  - lying to myself, it's just you and no one else, Lord I 
+A2  - won't miss you child  - aah aah
 
-Oooh oooh oooh oooh oooh oooh oooh
-Oooh oooh oooh oooh oooh oooh oooh
-I won't miss you child
+A1  - aah aah aah aah aah, aah aah aah aah aah aah aah, aah aah 
+A2  - aah aah       - aah aah
+A1  - aah aah aah aah aah, aah aah aah aah aah aah aah, aah aah 
+A2  - aah aah       - aah aah
 
-I guess I'm lying to myself
-It's just you and no one else
-Lord I won't miss you child
-You've been blotting out my mind
-Fooling on my time
-No, I won't miss you, baby, yeah
+A1  - aah aah aah aah aah, aah aah aah aah aah aah aah, aah aah 
+A2  - aah aah       - aah aah
+A1  - aah aah aah aah aah, aah aah aah aah aah aah aah, aah aah 
+A2  - aah aah       - aah aah
 
-Lord, I miss you child
+A1  - aah aah aah aah aah, aah aah aah aah aah aah aah, aah aah 
+A2  - aah aah       - aah aah
+A1  - aah aah aah aah aah, aah aah aah aah aah aah aah, aah aah 
+A2  - aah aah       - aah aah
 
-Aaah Aaah Aaah Aaah Aaah Aaah Aaah
-Aaah Aaah Aaah Aaah Aaah Aaah Aaah
-Aaah Aaah Aaah Aaah
-
-Lord, I miss you child
-
-Aaah Aaah Aaah Aaah Aaah Aaah Aaah
-Aaah Aaah Aaah Aaah Aaah Aaah Aaah
-Aaah Aaah Aaah Aaah
-
-Lord, I miss you child
-
-aaah aaah aaah aaah aaah aaah aaah
-aaah aaah aaah aaah aaah aaah aaah
-aaah aaah aaah aaah
