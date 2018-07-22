@@ -9,7 +9,6 @@ my @songsToDo = qw(
 04-Liar
 05-GodSaveTheQueen
 08-AnarchyInTheUK
-11-NewYork
 );
 
 my @songsDone = qw(
@@ -17,6 +16,7 @@ my @songsDone = qw(
 07-Seventeen
 09-Submission
 10-PrettyVacant
+11-NewYork
 12-EMI
 );
 
