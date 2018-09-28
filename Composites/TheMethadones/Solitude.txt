@@ -62,7 +62,58 @@ A |-9-----9--9-----9--9-----9-----9--9-----9--9-----7-----7--7-----7--7-----7---
 E |-------------------------------------------------5-----5--5-----5--5-----5-----5--5-----5--5----      
     $           *           *           *           $           *           *           *
 
-B5
+
+
+A1 
+A2
+A1 
+A2
+
+A1 
+A2
+A1 
+A2
+
+A1  - I'm gonna hang out with myself.
+A2  - I won't be in debt to anybody
+A1  - or have to worry about pushing anyone 
+A2  - 'cause I don't want them around
+
+A1  - and everybody around me has 
+A2  - told me things that I don't believe 
+A1  - seems like everyone around 
+A2  - is pleased when I'm not happy
+
+B1  - I'm 
+B2  -        all alone again, and
+B3  - I'm 
+B4  -        perfectly content for now
+
+A1
+A2
+A1
+A2
+
+A1  - as I dream of somewhere else, 
+A2  - I won't have to answer to anybody 
+A1  - or have to listen to the moronic views that 
+A2  - I hear everywhere
+
+A1  - as I wonder, I start to doubt that 
+A2  - anyone would have relief to a
+A1  - lie he's gonna say before I walk away 
+A2  - there's no use in trying to explain
+
+B1  - I'm 
+B2  -        all alone again, and
+B3  - I'm 
+B4  -        perfectly content for, yeah
+
+B1  - I'm 
+B2  -        all alone again, and
+B3  - I'm 
+B4  -        perfectly content for
+B5  - now
 
 E |------------------------------------------------------------------------------------------------
 B |-6----------------------------------------------------------------------------------------------
@@ -70,57 +121,5 @@ G |-6---------------------------------------------------------------------------
 D |-6----------------------------------------------------------------------------------------------
 A |-4----------------------------------------------------------------------------------------------
 E |------------------------------------------------------------------------------------------------
-    $           *           *           *           $           *           *           *
+    L           *           *           *           $           *           *           *
 
-
-A1 
-A2
-A1 
-A2
-
-A1 
-A2
-A1 
-A2
-
-A1 - I'm gonna hang out with myself. 
-A2 - I won't be in debt to anybody 
-A1 - Or have to worry about pushing anyone 
-A2 - 'Cause I don't want them around. 
-
-A1 - And everybody around me has 
-A2 - Told me things that I don't believe 
-A1 - Seems like everyone around 
-A2 - Is pleased when I'm not happy. 
-
-B1 - I'm 
-B2 -        all alone again, and
-B3 - I'm 
-B4 -        perfectly content for now. 
-
-A1
-A2
-A1
-A2
-
-A1 - As I dream of somewhere else, 
-A2 - I won't have to answer to anybody 
-A1 - Or have to listen to the moronic views that 
-A2 - I hear everywhere. 
-
-A1 - As I wonder, I start to doubt that 
-A2 - Anyone would have relief to a
-A1 - Lie he's gonna say before I walk away 
-A2 - There's no use in trying to explain
-
-B1 - I'm 
-B2 -        all alone again, and
-B3 - I'm 
-B4 -        perfectly content for, yeah
-
-B1 - I'm 
-B2 -        all alone again, and
-B3 - I'm 
-B4 -        perfectly content for now. 
-
-B5
