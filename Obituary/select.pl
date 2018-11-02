@@ -12,11 +12,11 @@ my @songsToDo = (
 "'Til Death",
 "Cause of Death",
 "The End Complete",
-"Slowly We Rot",
 );
 
 my @songsDone = (
 "I'm in Pain",
+"Slowly We Rot",
 );
 
 print $songsToDo[rand @songsToDo] . "\n";
