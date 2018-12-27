@@ -16,11 +16,6 @@ A1
 A1
 A1
 
-A1
-A1
-A1
-A1
-
 B1
 
 E |------------------------------------------------------------------------------------------------      
@@ -41,7 +36,7 @@ A |-2-----------2-----2-----2-----------2-----2-----4-----4-----4-----4-----4---
 E |------------------------------------------------------------------------------------------------      
     $           *           *           *           $           *           *           *
 
-B3
+B3  -                                           - When
 
 E |------------------------------------------------                                                      
 B |-6-----6-----6-----6-----6-----6-----6-----6----                                                      
@@ -51,21 +46,16 @@ A |-4-----4-----4-----4-----4-----4-----4-----4----
 E |------------------------------------------------                                                      
     $           *           *           *
 
-A1
+A1  - I start movin, you see a blur.            - Get
+A1  - hooked on me baby, there ain't no cure.   - I've 
+A1  - always been able to laugh at fate.        - Two 
+A1  - brown eyes filled with hate.              - I'm the 
 
-When I start movin, you see a blur.
-Get hooked on me baby, there ain't no cure.
-I've always been able to laugh at fate.
-Two brown eyes filled with hate.
+B1  - man who makes the street his home.        - And my 
+B2  - lean, mean heart is just as hard as stone.
+B3  -                   - Oh
 
-
-I'm the man who make
-the street his home.
-And my lean, mean heart
-Is just as hard as stone.
-
-
-C1
+C1  - I'm my main man.
 
 E |-2-----------2-----2-----5-----------5-----5-----0-----0-----0----------------------------------      
 B |-2-----------2-----2-----5-----------5-----5-----0-----0-----0-----4-----------4-----4-----4----      
@@ -76,12 +66,13 @@ E |-2-----------2-----2-----5-----------5-----5-----0-----0-----0---------------
     $           *           *           *           $           *           *           *
 
 C1
+C1  - Don't want nothing from no one.
+C1
 
-Oh, I'm my main man.
-Don't want nothing from no one.
-I'm my main man.
-Always ready for what ever's gonna happen.
-C2
+C1  - I'm my main man.
+C1
+C1  - Always ready for what 
+C2  - ever's gonna happen.
 
 E |-2-----------2-----2-----2-----2-----2-----2-----0-----------0-----0-----0-----0-----0-----0----      
 B |-2-----------2-----2-----2-----2-----2-----2-----0-----------0-----0-----0-----0-----0-----0----      
@@ -90,6 +81,63 @@ D |-4-----------4-----4-----4-----4-----4-----4-----2-----------2-----2-----2---
 A |-4-----------4-----4-----4-----4-----4-----4-----2-----------2-----2-----2-----2-----2-----2----      
 E |-2-----------2-----2-----2-----2-----2-----2-----0-----------0-----0-----0-----0-----0-----0----      
     $           *           *           *           $           *           *           *
+
+A1  - Spend my time in a cold jail cell.
+A1  - Shootin' up poison, and livin' in hell.   - And 
+A1  - I never care what people think,           - My 
+A1  - history's written on me in tattoed ink.   - And
+
+B1  - still life goes on - tracks on my arms.   - And the
+B2  - number thirteen is my good luck charm.
+B3  -                   - Oh
+
+C1  - I'm my main man.
+C1
+C1  - Don't want nothing from no one.
+C1
+
+C1  - I'm my main man.
+C1
+C1  - Always ready for what 
+C2  - ever's gonna happen.
+
+A1  
+A1
+A1
+A1
+
+B1
+B2
+B3  -                   - What
+
+A1  - happens to me is my own affair.           - If 
+A1  - you don't like me, I really don't care.   - 'Cause 
+A1  - no one's been what I've been through.     - And 
+A1  - I don't do what people want me to do.     - I'll 
+
+B1  - fight you till the bitter end.            - And
+B2  - then I'll screw your little girlfriend.
+B3  -                   - Oh
+
+C1  - I'm my main man.
+C1
+C1  - Don't want nothing from no one.
+C1
+
+C1  - I'm my main man.
+C1
+C1  - Always ready for what 
+C2  - ever's gonna happen.                      - Yea
+
+C1  - I'm my main man.
+C1
+C1  - Don't want nothing from no one.
+C1
+
+C1  - I'm my main man.
+C1
+C1  - Always ready for what 
+C2  - ever's gonna happen. Look out!
 
 C3
 
@@ -111,29 +159,4 @@ A |-4---------------------------------------------------------------------------
 E |-2----------------------------------------------------------------------------------------------   
     $           *           *           *           $           *           *           *
 
-
-
-
-
-
-
-Spend my time in a cold jail cell.
-Shootin' up poison, and livin' in hell.
-And I never care what people think,
-My history's written on me in tattoed ink.
-
-And still life goes on;
-Tracks on my arms.
-And the number thirteen
-Is my good luck charm.
-
-What happens to me is my own affair.
-If you don't like me, I really don't care.
-'Cause no one's been what I've been through.
-And I don't do what people want me to do.
-
-I'll fight you till
-The bitter end.
-And then I'll screw
-Your little girlfriend.
 
