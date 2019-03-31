@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
  <version>0.9.7</version>
- <bpm>180</bpm>
+ <bpm>152</bpm>
  <volume>0.73</volume>
  <metronomeVolume>0.5</metronomeVolume>
  <name>Untitled Song</name>
@@ -2171,6 +2171,18 @@
    <patternID>Pattern 11</patternID>
   </group>
   <group>
+   <patternID>Pattern 11</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 11</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 11</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 11</patternID>
+  </group>
+  <group>
    <patternID>Pattern 12</patternID>
   </group>
   <group>
@@ -2271,6 +2283,18 @@
   </group>
   <group>
    <patternID>Pattern 10</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 11</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 11</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 11</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 11</patternID>
   </group>
   <group>
    <patternID>Pattern 11</patternID>
