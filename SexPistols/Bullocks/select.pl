@@ -3,7 +3,6 @@ use strict;
 use warnings;
 
 my @songsToDo = qw(
-03-NoFeelings
 04-Liar
 05-GodSaveTheQueen
 06-Problems
@@ -15,9 +14,14 @@ my @songsToDo = qw(
 12-EMI
 );
 
-my @songsDone = qw(
+my @songsFirstRound = qw(
 01-HolidaysInTheSun
 02-Bodies
+03-NoFeelings
+);
+
+my @songsDone = qw(
+
 );
 
 
