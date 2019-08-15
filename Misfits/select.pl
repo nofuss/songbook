@@ -31,7 +31,6 @@ Psycho-07-DigUpHerBones
 Psycho-08-Blacklight
 Psycho-09-Resurrection
 Psycho-10-ThisIslandEarth
-Psycho-11-CrimsonGhost
 Psycho-12-DayOfTheDead
 Psycho-13-TheHaunting
 Psycho-14-MarsAttacks
@@ -40,8 +39,11 @@ Psycho-16-Shining
 Psycho-17-DontOpenTilDoomsday
 );
 
-my @songsDone = qw(
+my @songsDoing = qw(
+Psycho-11-CrimsonGhost
 );
 
+my @songsDone = qw(
+);
 
 print $songsToDo[rand @songsToDo] . "\n";
