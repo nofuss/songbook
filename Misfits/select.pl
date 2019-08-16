@@ -34,13 +34,13 @@ Psycho-10-ThisIslandEarth
 Psycho-12-DayOfTheDead
 Psycho-13-TheHaunting
 Psycho-14-MarsAttacks
-Psycho-15-HateTheLivingLoveTheDead
 Psycho-16-Shining
 Psycho-17-DontOpenTilDoomsday
 );
 
 my @songsDoing = qw(
 Psycho-11-CrimsonGhost
+Psycho-15-HateTheLivingLoveTheDead
 );
 
 my @songsDone = qw(
