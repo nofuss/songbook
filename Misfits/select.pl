@@ -10,7 +10,6 @@ Monsters-04-DustToDust
 Monsters-05-CrawlingEye
 Monsters-07-Scream
 Monsters-08-SaturdayNight
-Monsters-09-PumpkinHead
 Monsters-10-ScarecrowMan
 Monsters-11-DieMonsterDie
 Monsters-12-LivingHell
@@ -39,6 +38,7 @@ Psycho-17-DontOpenTilDoomsday
 
 my @songsDoing = qw(
 Monsters-06-WitchHunt
+Monsters-09-PumpkinHead
 Psycho-11-CrimsonGhost
 Psycho-15-HateTheLivingLoveTheDead
 );
