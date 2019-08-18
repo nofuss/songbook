@@ -28,7 +28,6 @@ Psycho-06-FromHellTheyCame
 Psycho-07-DigUpHerBones
 Psycho-08-Blacklight
 Psycho-09-Resurrection
-Psycho-10-ThisIslandEarth
 Psycho-12-DayOfTheDead
 Psycho-13-TheHaunting
 Psycho-14-MarsAttacks
@@ -39,6 +38,7 @@ Psycho-17-DontOpenTilDoomsday
 my @songsDoing = qw(
 Monsters-06-WitchHunt
 Monsters-09-PumpkinHead
+Psycho-10-ThisIslandEarth
 Psycho-11-CrimsonGhost
 Psycho-15-HateTheLivingLoveTheDead
 );
