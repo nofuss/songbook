@@ -15,7 +15,6 @@ Monsters-11-DieMonsterDie
 Monsters-12-LivingHell
 Monsters-13-DescendingAngel
 Monsters-14-Them
-Monsters-15-FiendClub
 Monsters-16-HuntingHumans
 Monsters-17-Helena
 Monsters-18-KongUnleashed
@@ -38,6 +37,7 @@ Psycho-17-DontOpenTilDoomsday
 my @songsDoing = qw(
 Monsters-06-WitchHunt
 Monsters-09-PumpkinHead
+Monsters-15-FiendClub
 Psycho-10-ThisIslandEarth
 Psycho-11-CrimsonGhost
 Psycho-15-HateTheLivingLoveTheDead
