@@ -14,7 +14,6 @@ my @songsStarted = qw(
 08-INeedSomeBrainDamage
 09-CodenamePeabrain
 10-PhantomMaggot
-11-RobotsInMyDreams
 13-Caveman
 14-ICameFromTheFuture
 );
@@ -22,6 +21,7 @@ my @songsStarted = qw(
 my @songsDone = qw(
 05-X-RaySpecs
 03-BlackHoleInMyMind
+11-RobotsInMyDreams
 12-MurderOnMyMind
 );
 
