@@ -14,7 +14,6 @@ my @songsStarted = qw(
 08-INeedSomeBrainDamage
 09-CodenamePeabrain
 10-PhantomMaggot
-13-Caveman
 14-ICameFromTheFuture
 );
 
@@ -23,6 +22,7 @@ my @songsDone = qw(
 03-BlackHoleInMyMind
 11-RobotsInMyDreams
 12-MurderOnMyMind
+13-Caveman
 );
 
 print $songsStarted[rand @songsStarted] . "\n";
