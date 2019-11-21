@@ -86,7 +86,7 @@ A3 - The name of the bar,
 A4 - the bar is called Heaven.
 
 A1 - The band in Heaven plays my 
-A2 - favorite song.
+A2 - favourite song.
 A3 - They play it once again, 
 A4 - they play it all night long.
 
