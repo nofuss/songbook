@@ -5,8 +5,11 @@ use warnings;
 my @songsToDo = qw(
 );
 
-my @songsDone = qw(
+my @songsStarted = qw(
 01-WarOfTheWorlds
+);
+
+my @songsDone = qw(
 02-DontTrustTheHumanoids
 03-BlackHoleInMyMind
 04-ISawTheApeman
@@ -22,5 +25,5 @@ my @songsDone = qw(
 14-ICameFromTheFuture
 );
 
+print $songsStarted[rand @songsStarted] . "\n";
 
-print $songsToDo[rand @songsToDo] . "\n";
