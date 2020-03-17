@@ -209,10 +209,10 @@ B2
 B1
 B3
 
-C1  - fear him, fear him
-C2  - fear him, fear him
-C1  - fear him, fear him
-C2  - fear him, Satan
+C1  - kill him, kill him
+C2  - kill him, kill him
+C1  - kill him, kill him
+C2  - kill him, Satan
 
 C1  - Nazarene screaming on his crucifixion
 C2  - prophecy in its final contradiction
