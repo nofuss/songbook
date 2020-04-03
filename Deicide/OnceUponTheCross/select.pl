@@ -8,8 +8,7 @@ my @songsToDo = qw(
 09-ConfessionalRape
 );
 
-my @songsDone = qw(
-01-OnceUponTheCross
+my @songsStarted = qw(
 02-ChristDenied
 03-WhenSatanRulesHisWorld
 04-KillTheChristian
@@ -17,9 +16,16 @@ my @songsDone = qw(
 07-BehindTheLightThouShallRise
 );
 
+my @songsDone = qw(
+01-OnceUponTheCross
+);
+
 #for my $song (@songsToDo) {
     #print `mkdir $song`;
     #print `cp tabs.et6 $song`;
 #}
 
-print $songsToDo[rand @songsToDo] . "\n";
+print $songsStarted[rand @songsStarted] . "\n";
+#print $songsToDo[rand @songsToDo] . "\n";
+
+
