@@ -5,7 +5,6 @@ use warnings;
 my @songsToDo = qw(
 01-Thumb
 02-GreenMachine
-03-MoltenUniverse
 04-50MillionYearTripDownsideUp
 05-ThongSong
 06-ApothecariesWeight
@@ -17,12 +16,13 @@ my @songsToDo = qw(
 13-MondoGenerator
 );
 
-for my $song (@songsToDo) {
-    print `mkdir $song`;
-    print `cp tabs.et6 $song`;
-}
+#for my $song (@songsToDo) {
+    #print `mkdir $song`;
+    #print `cp tabs.et6 $song`;
+#}
 
 my @songsDone = qw(
+03-MoltenUniverse
 07-CaterpillarMarch
 );
 
