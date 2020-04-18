@@ -6,20 +6,20 @@ use warnings;
 
 my @songsToDo = qw(
 02-ViolentByNature
-03-PainInside
 05-BackOnTop
 06-Violence
 07-InkedInBlood
 08-DenyYou
 09-WithinADyingBreed
 10-MindsOfTheWorld
-11-OutOfBlood
-11-ParalyzedWithFear
+12-ParalyzedWithFear
 );
 
 my @songsDone = qw(
 01-CenturiesOfLies
+03-PainInside
 04-VisionsInMyHead
+11-OutOfBlood
 );
 
 #for my $dir (@songsToDo) {
