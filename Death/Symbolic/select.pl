@@ -5,7 +5,6 @@ use warnings;
 
 
 my @songsToDo = qw(
-01-Symbolic
 02-ZeroTolerance
 03-EmptyWords
 04-SacredSerenity
@@ -16,6 +15,7 @@ my @songsToDo = qw(
 );
 
 my @songsDone = qw(
+01-Symbolic
 08-Misanthrope
 );
 
