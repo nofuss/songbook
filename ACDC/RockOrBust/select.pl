@@ -13,6 +13,7 @@ my @songsToDo = qw(
 
 my @songsDone = qw(
 04-MissAdventure
+05-DogsOfWar
 06-GotSomeRockAndRollThunder
 07-HardTimes
 09-RockTheHouse
