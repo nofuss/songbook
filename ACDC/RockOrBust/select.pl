@@ -7,17 +7,20 @@ my @songsToDo = qw(
 01-RockOrBust
 02-PlayBall
 03-RockTheBluesAway
-08-BaptismByFire
 11-EmissionControl
 );
 
-my @songsDone = qw(
+my @songsStarted = qw(
 04-MissAdventure
 05-DogsOfWar
 06-GotSomeRockAndRollThunder
 07-HardTimes
+08-BaptismByFire
 09-RockTheHouse
 10-SweetCandy
+);
+
+my @songsDone = qw(
 );
 
 print $songsToDo[rand @songsToDo] . "\n";
