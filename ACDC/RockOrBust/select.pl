@@ -4,10 +4,10 @@ use strict;
 use warnings;
 
 my @songsToDo = qw(
-01-RockOrBust
 );
 
 my @songsStarted = qw(
+01-RockOrBust
 02-PlayBall
 03-RockTheBluesAway
 04-MissAdventure
@@ -20,7 +20,7 @@ my @songsStarted = qw(
 11-EmissionControl
 );
 
-my @songsDone = qw(
+my @songsWithLead = qw(
 );
 
 print $songsToDo[rand @songsToDo] . "\n";
