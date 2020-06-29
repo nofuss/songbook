@@ -7,7 +7,6 @@ my @songsToDo = qw(
 );
 
 my @songsStarted = qw(
-01-RockOrBust
 02-PlayBall
 03-RockTheBluesAway
 04-MissAdventure
@@ -21,8 +20,9 @@ my @songsStarted = qw(
 );
 
 my @songsWithLead = qw(
+01-RockOrBust
 );
 
-print $songsToDo[rand @songsToDo] . "\n";
+print $songsStarted[rand @songsToDo] . "\n";
 
 
