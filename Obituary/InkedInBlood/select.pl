@@ -1,8 +1,6 @@
 #!/usr/bin/perl
-
 use strict;
 use warnings;
-
 
 my @songsToDo = qw(
 05-BackOnTop
