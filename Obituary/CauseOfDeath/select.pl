@@ -11,11 +11,10 @@ my @songsToDo = qw(
 06-FindTheArise
 07-CauseOfDeath
 08-MemoriesRemain
-09-TurnedInsideOut
 );
 
 my @songsDone = qw(
-
+09-TurnedInsideOut
 );
 
 #for my $dir (@songsToDo) {
