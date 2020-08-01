@@ -6,7 +6,6 @@ my @songsToDo = qw(
 01-Infected
 02-BodyBag
 03-ChoppedInHalf
-04-CircleOfTheTyrants
 05-Dying
 06-FindTheArise
 07-CauseOfDeath
@@ -14,6 +13,7 @@ my @songsToDo = qw(
 );
 
 my @songsDone = qw(
+04-CircleOfTheTyrants
 09-TurnedInsideOut
 );
 
