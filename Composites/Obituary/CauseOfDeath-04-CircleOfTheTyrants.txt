@@ -1,6 +1,7 @@
 Obituary - Circle of the Tyrants
 
 I1
+    140
 
 D |------------------------------------------------------------------------------------------------      
 A |------------------------------------------------------------------------------------------------      
@@ -134,6 +135,7 @@ D |-6--------------5-----------------------0--0--6--------------5-----------4---
     $           *           *           *           $           *           *
 
 D1  - the days have come when the steel will rule
+    84
 
 D |------------------------------------------------------------------------------------------------      
 A |------------------------------------------------------------------------------------------------      
@@ -159,15 +161,16 @@ D |-------4-----3-----------5-----6-----------------------4-----3-----------5---
 
 D2
 
-D1  - I sing the ballads of victory and defeat
-D1  - I hear the tales of frozen mystery
+D1  - I sing the ballads, of victory and defeat
+D1  - I hear the tales, of frozen mystery
 D1  - your hand wields the might, the tyrants the precursor
-D1  - you carry the will as the morning is near
+D1  - you carry the will, as the morning is near
 
 D2  - the intensive gleam
 D2
 
 E0
+    160
 
 D |------------------------------------------------------------------------------------------------      
 A |------------------------------------------------------------------------------------------------      
@@ -219,10 +222,11 @@ F1
 F2
 
 D1
+    84
 D1
 
 G1  - the new kingdoms rise by the circle of the tyrants
-G1  - in the land of darkness, the warrior that was me
+    96
 
 D |------------------------------------------------------------------------------------------------      
 A |------------------------------------------------------------------------------------------------      
@@ -232,10 +236,12 @@ G |-2--2--2--2--2--2--2--2--2--2--2--2--5-/7-----6-----6--6--6--6--6--6--6--6--6
 D |-0--0--0--0--0--0--0--0--0--0--0--0--3-/5-----4-----4--4--4--4--4--4--4--4--4--4--4--4--4--4--4-      
     P           p           p           *           P           p           p           p
 
+G1  - in the land of darkness, the warrior that was me
 G1  - grotesque glory, none will ever see them fall
 G1  - and hunts and wars, are like everlasting shadows
 
 D2b
+    84
 
 D |------------------------------------------------------------------------------------------------      
 A |------------------------------------------------------------------------------------------------      
@@ -250,12 +256,14 @@ D2b
 D1
 D1
 
-G1  - where the winds cannot reach the tyrants might was born
+G1  - where the winds cannot reach the, tyrants might was born
+    96
 G1  - and as I often look back, with tears in my eyes
 G1  - grotesque glory, none will ever see them fall
-G1  - and hunts and wars are like ever lasting shadows
+G1  - and hunts and wars, are like ever lasting shadows
 
 D2c
+    84
 
 D |------------------------------------------------------------------------------------------------      
 A |------------------------------------------------------------------------------------------------      
