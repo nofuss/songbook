@@ -5,7 +5,7 @@ Songs to Practice on Bass
 
 From https://how-to-play-bass.com/play-bass-in-50-songs-rock
 
-1) YELLOW by Coldplay. Here’s a nice simple line to get started with.
+X 1) YELLOW by Coldplay. Here’s a nice simple line to get started with.
 
 2) WITH OR WITHOUT YOU by U2. One of my favourite U2 songs – simple bass line too, four chords, root notes in a steady 8th note pulse.
 
