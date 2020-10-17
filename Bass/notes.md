@@ -11,9 +11,9 @@ X 2) WITH OR WITHOUT YOU by U2. One of my favourite U2 songs – simple bass lin
 
 X 3) EVERY BREATH YOU TAKE by The Police. The first of three Sting basslines. This one’s mainly root notes, mainly 8th notes.
 
-4) ROXANNE by The Police. A nice example of the Police’s early mix of reggae and rock (see also ‘So Lonely’).
+X 4) ROXANNE by The Police. A nice example of the Police’s early mix of reggae and rock (see also ‘So Lonely’).
 
-5) MESSAGE IN A BOTTLE by The Police. Another great Sting line, he’s not a virtuoso but he plays memorable bass lines.
+X 5) MESSAGE IN A BOTTLE by The Police. Another great Sting line, he’s not a virtuoso but he plays memorable bass lines.
 
 6) ANOTHER ONE BITES THE DUST by Queen. One of the most recognisable basslines in bassdom, played by one of its most underrated players – John Deacon (crap claim to fame: I went to the same school as John Deacon!).
 
