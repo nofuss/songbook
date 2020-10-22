@@ -15,7 +15,7 @@ X 4) ROXANNE by The Police. A nice example of the Police’s early mix of reggae
 
 X 5) MESSAGE IN A BOTTLE by The Police. Another great Sting line, he’s not a virtuoso but he plays memorable bass lines.
 
-6) ANOTHER ONE BITES THE DUST by Queen. One of the most recognisable basslines in bassdom, played by one of its most underrated players – John Deacon (crap claim to fame: I went to the same school as John Deacon!).
+X 6) ANOTHER ONE BITES THE DUST by Queen. One of the most recognisable basslines in bassdom, played by one of its most underrated players – John Deacon (crap claim to fame: I went to the same school as John Deacon!).
 
 7) ADDICTED TO LOVE by Robert Palmer Interesting 80s rock bassline – learn to rock without the root note on the downbeat. Oh and great video too! (if a bit sexist)
 
