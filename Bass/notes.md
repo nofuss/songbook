@@ -17,7 +17,7 @@ X 5) MESSAGE IN A BOTTLE by The Police. Another great Sting line, he’s not a v
 
 X 6) ANOTHER ONE BITES THE DUST by Queen. One of the most recognisable basslines in bassdom, played by one of its most underrated players – John Deacon (crap claim to fame: I went to the same school as John Deacon!).
 
-7) ADDICTED TO LOVE by Robert Palmer Interesting 80s rock bassline – learn to rock without the root note on the downbeat. Oh and great video too! (if a bit sexist)
+X 7) ADDICTED TO LOVE by Robert Palmer Interesting 80s rock bassline – learn to rock without the root note on the downbeat. Oh and great video too! (if a bit sexist)
 
 8) DAYTRIPPER by The Beatles The Beatles wrote great tunes, Paul McCartney played great basslines. this riff based tune can be played much heavier than the Beatles original.
 
