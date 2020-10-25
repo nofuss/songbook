@@ -19,7 +19,7 @@ X 6) ANOTHER ONE BITES THE DUST by Queen. One of the most recognisable basslines
 
 X 7) ADDICTED TO LOVE by Robert Palmer Interesting 80s rock bassline – learn to rock without the root note on the downbeat. Oh and great video too! (if a bit sexist)
 
-8) DAYTRIPPER by The Beatles The Beatles wrote great tunes, Paul McCartney played great basslines. this riff based tune can be played much heavier than the Beatles original.
+X 8) DAYTRIPPER by The Beatles The Beatles wrote great tunes, Paul McCartney played great basslines. this riff based tune can be played much heavier than the Beatles original.
 
 9) NEW YEARS DAY by U2 A simple Adam Clayton line, 8th notes all the way.
 
