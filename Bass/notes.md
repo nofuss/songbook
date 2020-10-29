@@ -21,7 +21,7 @@ X 7) ADDICTED TO LOVE by Robert Palmer Interesting 80s rock bassline – learn t
 
 X 8) DAYTRIPPER by The Beatles The Beatles wrote great tunes, Paul McCartney played great basslines. this riff based tune can be played much heavier than the Beatles original.
 
-9) NEW YEARS DAY by U2 A simple Adam Clayton line, 8th notes all the way.
+X 9) NEW YEARS DAY by U2 A simple Adam Clayton line, 8th notes all the way.
 
 10) LIGHT MY FIRE by The Doors. Nice 8th note bassline with lots of major and minor triads.
 
