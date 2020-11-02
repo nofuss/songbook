@@ -23,7 +23,7 @@ X 8) DAYTRIPPER by The Beatles The Beatles wrote great tunes, Paul McCartney pla
 
 X 9) NEW YEARS DAY by U2 A simple Adam Clayton line, 8th notes all the way.
 
-10) LIGHT MY FIRE by The Doors. Nice 8th note bassline with lots of major and minor triads.
+X 10) LIGHT MY FIRE by The Doors. Nice 8th note bassline with lots of major and minor triads.
 
 11) MONEY FOR NOTHING by Dire Straits. I’ve got a feeling Sting might have played the bassline on this, it’s a nice 8th note riff kind of song.
 
