@@ -6,7 +6,6 @@ my @songsToDo = qw(
 01-Brave
 02-SentenceDay
 03-ALessonInVengeance
-04-EndItNow
 05-KneelBeforeMe
 06-ItLives
 07-Betrayed
@@ -17,13 +16,13 @@ my @songsToDo = qw(
 );
 
 my @songsDone = qw(
-
+04-EndItNow
 );
 
-for my $dir (@songsToDo) {
-    print `mkdir $dir`;
-    print `touch $dir/info.txt`;
-}
+#for my $dir (@songsToDo) {
+    #print `mkdir $dir`;
+    #print `touch $dir/info.txt`;
+#}
 
 print $songsToDo[rand @songsToDo] . "\n";
 
