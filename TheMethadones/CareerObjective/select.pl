@@ -11,15 +11,16 @@ my @songsToDo = qw(
 06-FarAway 	
 07-StuckInMyHead 	
 08-Revitalized
-09-Antidote 	
 10-TVWorld 	
 11-YouDontKnowMeAnymore
 12-AccidentWaitingToHappen 	
 13-Examine
 );
 
-my @songsDone = qw(
+my @songsStarted = qw(
+09-Antidote 	
 );
+
 
 #for my $dir (@songsToDo) {
     #print `mkdir $dir`;
