@@ -21,10 +21,10 @@ my @songsToDo = qw(
 my @songsDone = qw(
 );
 
-for my $dir (@songsToDo) {
-    print `mkdir $dir`;
-    print `touch $dir/info.txt`;
-}
+#for my $dir (@songsToDo) {
+    #print `mkdir $dir`;
+    #print `touch $dir/info.txt`;
+#}
 
 print $songsToDo[rand @songsToDo] . "\n";
 
