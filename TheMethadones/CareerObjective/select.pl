@@ -12,8 +12,6 @@ my @songsToDo = qw(
 08-Revitalized
 10-TVWorld 	
 11-YouDontKnowMeAnymore
-12-AccidentWaitingToHappen 	
-13-Examine
 );
 
 my @songsStarted = qw(
