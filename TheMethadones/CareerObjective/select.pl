@@ -10,13 +10,13 @@ my @songsToDo = qw(
 05-Ammunition 	
 06-FarAway 	
 08-Revitalized
-10-TVWorld 	
-11-YouDontKnowMeAnymore
 );
 
 my @songsStarted = qw(
 07-StuckInMyHead 	
 09-Antidote 	
+10-TVWorld 	
+11-YouDontKnowMeAnymore
 );
 
 
