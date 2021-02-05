@@ -15,7 +15,11 @@ my @songsToDo = qw(
 10-SpillTheBlood
 );
 
-my @songsDoing = qw(
+my @rhythmDone = qw(
+
+);
+
+my @leadDone = qw(
 
 );
 
