@@ -4,7 +4,6 @@ use strict;
 use warnings;
 
 my @songsToDo = qw(
-01-HellsBells
 02-ShootToThrill
 03-WhatDoYouDoForMoneyHoney
 04-GivenTheDogABone
@@ -17,7 +16,7 @@ my @songsToDo = qw(
 );
 
 my @songsStarted = qw(
-
+01-HellsBells
 );
 
 my @songsWithLead = qw(
