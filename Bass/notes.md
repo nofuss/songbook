@@ -110,7 +110,7 @@ X 11) MONEY FOR NOTHING by Dire Straits. I’ve got a feeling Sting might have p
 
 From https://how-to-play-bass.com/play-bass-in-50-songs-soul
 
-1) STAND BY ME. A nice simple line to start with that repeats throughout the song.
+X 1) STAND BY ME. A nice simple line to start with that repeats throughout the song.
 
 2) MY GIRL. The first (of many) Jamerson lines. A simple line with a memorable hook underpinning the soulful sound of the Temptations.
 
