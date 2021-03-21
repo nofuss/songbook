@@ -3,7 +3,6 @@ use strict;
 use warnings;
 
 my @songsToDo = qw(
-02-SilentScream
 04-BehindTheCrookedCross
 06-GhostsOfWar
 07-ReadBetweenTheLies
@@ -13,6 +12,7 @@ my @songsToDo = qw(
 
 my @rhythmDone = qw(
 01-SouthOfHeaven
+02-SilentScream
 03-LiveUndead
 05-MandatorySuicide
 08-CleanseTheSoul
