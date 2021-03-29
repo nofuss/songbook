@@ -29,7 +29,7 @@ X 11) MONEY FOR NOTHING by Dire Straits. I’ve got a feeling Sting might have p
 
 X 12) SATISFACTION by The Rolling Stones Simple yet effective Bill Wyman 8th note line on classic 60s rock track.
 
-13) KEEP ON RUNNING by Spencer Davies Group. A great track featuring Muff Winwood’s iconic driving bassline, the whole tune was reportedly written in less than 10 minutes once he’d come up with the bassline.
+X 13) KEEP ON RUNNING by Spencer Davies Group. A great track featuring Muff Winwood’s iconic driving bassline, the whole tune was reportedly written in less than 10 minutes once he’d come up with the bassline.
 
 14) YOU CAN DRIVE MY CAR by The Beatles More McCartney 8th notes from his transtional mid sixties period.
 
