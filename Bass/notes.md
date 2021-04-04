@@ -33,7 +33,7 @@ X 13) KEEP ON RUNNING by Spencer Davies Group. A great track featuring Muff Winw
 
 X 14) YOU CAN DRIVE MY CAR by The Beatles More McCartney 8th notes from his transtional mid sixties period.
 
-15) LIVING ON A PRAYER by Bon Jovi 80s stadium rock, Bon Jovi style so big hair and lots of 8th notes!
+X 15) LIVING ON A PRAYER by Bon Jovi 80s stadium rock, Bon Jovi style so big hair and lots of 8th notes!
 
 16) YOU REALLY GOT ME by The Kinks Another typical 60s style rock line
 
