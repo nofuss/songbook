@@ -35,7 +35,7 @@ X 14) YOU CAN DRIVE MY CAR by The Beatles More McCartney 8th notes from his tran
 
 X 15) LIVING ON A PRAYER by Bon Jovi 80s stadium rock, Bon Jovi style so big hair and lots of 8th notes!
 
-16) YOU REALLY GOT ME by The Kinks Another typical 60s style rock line
+X 16) YOU REALLY GOT ME by The Kinks Another typical 60s style rock line
 
 17) SUNSHINE OF YOUR LOVE by Cream. Learn an iconic bass riff and the blues scale in a single two bar measure! Jack Bruce with Cream, ’nuff said!
 
