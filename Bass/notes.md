@@ -37,7 +37,7 @@ X 15) LIVING ON A PRAYER by Bon Jovi 80s stadium rock, Bon Jovi style so big hai
 
 X 16) YOU REALLY GOT ME by The Kinks Another typical 60s style rock line
 
-17) SUNSHINE OF YOUR LOVE by Cream. Learn an iconic bass riff and the blues scale in a single two bar measure! Jack Bruce with Cream, ’nuff said!
+X 17) SUNSHINE OF YOUR LOVE by Cream. Learn an iconic bass riff and the blues scale in a single two bar measure! Jack Bruce with Cream, ’nuff said!
 
 18) BROWN SUGAR by The Rolling Stones Another Stones classic, another Bill Wyman bass line – simple but effective.
 
