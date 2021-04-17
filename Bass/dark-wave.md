@@ -8,6 +8,6 @@ X - The Cure - The Holy Hour
 - Bauhaus - In the Night
 - Joy Division - Dead Souls
 - The Cure - The Hanging Garden
-- Joy Division - She's Lost Control
+X - Joy Division - She's Lost Control
 - Bauhaus - Bela Lugosi's Dead
 
