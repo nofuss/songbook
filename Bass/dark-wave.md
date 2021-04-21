@@ -4,7 +4,7 @@ Dark wave songs with recommended bass lines
 - Sisters of Mercy - Lucretia My Reflection
 X - The Cure - The Holy Hour
 - The Cure - Play For Today
-- The Cure - "M"
+X - The Cure - "M"
 - Bauhaus - In the Night
 - Joy Division - Dead Souls
 - The Cure - The Hanging Garden
