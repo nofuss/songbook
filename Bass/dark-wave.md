@@ -7,7 +7,7 @@ X - The Cure - The Holy Hour
 X - The Cure - "M"
 - Bauhaus - In the Night
 X - Joy Division - Dead Souls
-- The Cure - The Hanging Garden
+X - The Cure - The Hanging Garden
 X - Joy Division - She's Lost Control
 - Bauhaus - Bela Lugosi's Dead
 
