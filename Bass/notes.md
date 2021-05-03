@@ -39,7 +39,7 @@ X 16) YOU REALLY GOT ME by The Kinks Another typical 60s style rock line
 
 X 17) SUNSHINE OF YOUR LOVE by Cream. Learn an iconic bass riff and the blues scale in a single two bar measure! Jack Bruce with Cream, ’nuff said!
 
-18) BROWN SUGAR by The Rolling Stones Another Stones classic, another Bill Wyman bass line – simple but effective.
+X 18) BROWN SUGAR by The Rolling Stones Another Stones classic, another Bill Wyman bass line – simple but effective.
 
 19) BET THAT YOU LOOK GOOD ON THE DANCEFLOOR by Arctic Monkeys Great contemporary tune, a good one for the rock jam repertoire.
 
