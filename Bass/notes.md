@@ -41,7 +41,7 @@ X 17) SUNSHINE OF YOUR LOVE by Cream. Learn an iconic bass riff and the blues sc
 
 X 18) BROWN SUGAR by The Rolling Stones Another Stones classic, another Bill Wyman bass line – simple but effective.
 
-19) BET THAT YOU LOOK GOOD ON THE DANCEFLOOR by Arctic Monkeys Great contemporary tune, a good one for the rock jam repertoire.
+X 19) BET THAT YOU LOOK GOOD ON THE DANCEFLOOR by Arctic Monkeys Great contemporary tune, a good one for the rock jam repertoire.
 
 20) I BELIEVE IN A THING CALLED LOVE by The Darkness Straightforward riff based rock tune.
 
