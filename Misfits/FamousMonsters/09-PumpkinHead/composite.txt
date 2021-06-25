@@ -12,7 +12,7 @@ A |-5-----------------------------------------------3---------------------------
 E |-3-----------------------------------------------1----------------------------------------------      
     $           *           *           *           $           *           *           *
 
-I2a - of a good man named Ed
+I2  - of a good man named Ed
 
 E |------------------------------------------------------------------------------------------------      
 B |------------------------------------------------------------------------------------------------      
@@ -125,7 +125,7 @@ E |-5-----------5-----5-----5-----5-----5-----------9-----9-----9-----------7---
     $           *           *           *           P           *           p           *
 
 B1  - I'm gonna tell you this, my
-B3a - friend
+B3  - friend
 
 E |------------------------------------------------------------------------------------------------      
 B |------------------------------------------------------------------------------------------------      
@@ -138,7 +138,7 @@ E |-5-----------5-----5-----5-----5-----5-----------5-----5-----5-----5-----4---
 B1  - I'm gonna show you where your 
 B2  - life will end
 B1  - I'm gonna bring you here a-
-B3b - gain
+B4  - gain
 
 E |------------------------------------------------------------------------------------------------      
 B |------------------------------------------------------------------------------------------------      
@@ -161,12 +161,12 @@ A2  - he already has, son, the witch did explain
 B1  - I'm gonna take you where your
 B2  - body will lie
 B1  - I'm gonna take you there, my
-B3a - friend
+B3  - friend
 
 B1  - I'm gonna show you where your 
 B2  - life will end
 B1  - I'm gonna bring you here a-
-B3b - gain
+B4  - gain
 
 C1  - Pumpkinhead
 
@@ -183,12 +183,12 @@ C1  - Pumpkinhead
 B1  - I'm gonna take you where your 
 B2  - body will lie
 B1  - I'm gonna tell you this, she 
-B3a - said
+B3  - said
 
 B1  - I'm gonna show you where your 
 B2  - life will end
 B1  - this curse I cast, you're Pumpkin-
-B3b - head! 
+B4  - head! 
 
 C1  - keep away from Pumpkinhead, un-
 C1  - less you're tired of living
