@@ -16,8 +16,11 @@ my @songsToDo = qw(
 12-MovingOn
 );
 
-my @songsDone = qw(
+my @songsStarted = qw(
 09-TheSquirrel
+);
+
+my @songsDone = qw(
 );
 
 #for my $song (@songsToDo) {
