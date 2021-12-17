@@ -7,7 +7,6 @@ my @songsToDo = qw(
 04-BehindTheCrookedCross
 06-GhostsOfWar
 07-ReadBetweenTheLies
-08-CleanseTheSoul
 09-DissidentAggressor
 10-SpillTheBlood
 );
@@ -16,6 +15,7 @@ my @rhythmDone = qw(
 01-SouthOfHeaven
 03-LiveUndead
 05-MandatorySuicide
+08-CleanseTheSoul
 );
 
 my @leadDone = qw(

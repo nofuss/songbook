@@ -27,21 +27,21 @@ X 10) LIGHT MY FIRE by The Doors. Nice 8th note bassline with lots of major and 
 
 X 11) MONEY FOR NOTHING by Dire Straits. I’ve got a feeling Sting might have played the bassline on this, it’s a nice 8th note riff kind of song.
 
-12) SATISFACTION by The Rolling Stones Simple yet effective Bill Wyman 8th note line on classic 60s rock track.
+X 12) SATISFACTION by The Rolling Stones Simple yet effective Bill Wyman 8th note line on classic 60s rock track.
 
-13) KEEP ON RUNNING by Spencer Davies Group. A great track featuring Muff Winwood’s iconic driving bassline, the whole tune was reportedly written in less than 10 minutes once he’d come up with the bassline.
+X 13) KEEP ON RUNNING by Spencer Davies Group. A great track featuring Muff Winwood’s iconic driving bassline, the whole tune was reportedly written in less than 10 minutes once he’d come up with the bassline.
 
-14) YOU CAN DRIVE MY CAR by The Beatles More McCartney 8th notes from his transtional mid sixties period.
+X 14) YOU CAN DRIVE MY CAR by The Beatles More McCartney 8th notes from his transtional mid sixties period.
 
-15) LIVING ON A PRAYER by Bon Jovi 80s stadium rock, Bon Jovi style so big hair and lots of 8th notes!
+X 15) LIVING ON A PRAYER by Bon Jovi 80s stadium rock, Bon Jovi style so big hair and lots of 8th notes!
 
-16) YOU REALLY GOT ME by The Kinks Another typical 60s style rock line
+X 16) YOU REALLY GOT ME by The Kinks Another typical 60s style rock line
 
-17) SUNSHINE OF YOUR LOVE by Cream. Learn an iconic bass riff and the blues scale in a single two bar measure! Jack Bruce with Cream, ’nuff said!
+X 17) SUNSHINE OF YOUR LOVE by Cream. Learn an iconic bass riff and the blues scale in a single two bar measure! Jack Bruce with Cream, ’nuff said!
 
-18) BROWN SUGAR by The Rolling Stones Another Stones classic, another Bill Wyman bass line – simple but effective.
+X 18) BROWN SUGAR by The Rolling Stones Another Stones classic, another Bill Wyman bass line – simple but effective.
 
-19) BET THAT YOU LOOK GOOD ON THE DANCEFLOOR by Arctic Monkeys Great contemporary tune, a good one for the rock jam repertoire.
+X 19) BET THAT YOU LOOK GOOD ON THE DANCEFLOOR by Arctic Monkeys Great contemporary tune, a good one for the rock jam repertoire.
 
 20) I BELIEVE IN A THING CALLED LOVE by The Darkness Straightforward riff based rock tune.
 
@@ -110,7 +110,7 @@ X 11) MONEY FOR NOTHING by Dire Straits. I’ve got a feeling Sting might have p
 
 From https://how-to-play-bass.com/play-bass-in-50-songs-soul
 
-1) STAND BY ME. A nice simple line to start with that repeats throughout the song.
+X 1) STAND BY ME. A nice simple line to start with that repeats throughout the song.
 
 2) MY GIRL. The first (of many) Jamerson lines. A simple line with a memorable hook underpinning the soulful sound of the Temptations.
 
