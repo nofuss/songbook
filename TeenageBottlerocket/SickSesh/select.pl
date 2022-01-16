@@ -3,12 +3,12 @@ use strict;
 use warnings;
 
 my @songsToDo = qw(
-01-SemiTruck
 07-HelloDana
 08-SpendTheNight
 );
 
 my @songsStarted = qw(
+01-SemiTruck
 02-YoureNeverGoingOutOfStyle
 03-GhostStory
 04-NeverSingAlong
