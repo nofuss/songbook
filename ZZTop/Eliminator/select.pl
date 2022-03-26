@@ -9,7 +9,6 @@ my @songsToDo = qw(
 05-IGotTheSix
 06-Legs
 07-Thug
-08-TVDinners
 09-DirtyDog
 10-IfICouldOnlyFlagHerDown
 11-BadGirl
@@ -17,6 +16,7 @@ my @songsToDo = qw(
 
 my @songsDone = qw(
 03-SharpDressedMan
+08-TVDinners
 );
 
 #for my $song (@songsToDo) {
