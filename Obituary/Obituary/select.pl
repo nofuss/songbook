@@ -7,7 +7,6 @@ my @songsToDo = qw(
 02-SentenceDay
 04-EndItNow
 05-KneelBeforeMe
-06-ItLives
 07-Betrayed
 08-TurnedToStone
 09-StraightToHell
@@ -17,6 +16,7 @@ my @songsToDo = qw(
 
 my @songsDone = qw(
 03-ALessonInVengeance
+06-ItLives
 );
 
 #for my $dir (@songsToDo) {
