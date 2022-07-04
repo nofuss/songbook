@@ -1,6 +1,6 @@
 Greatest Hits Album
 
-X Boys Don't Cry
+- Boys Don't Cry
 - A Forest
 - Let's Go to Bed
 - The Lovecats
