@@ -49,7 +49,7 @@ X 21) YOU GIVE LOVE A BAD NAME by Bon Jovi More Bon Jovi, more 8th note rock.
 
 X 22) COME AS YOU ARE by Nirvana Some seattle grunge – 8th note style!
 
-23) I SAW HER STANDING THERE by The Beatles Another McCartney line, this one’s a good right hand workout, lots of 8th notes at a brisk tempo (approx 160 BPM).
+X 23) I SAW HER STANDING THERE by The Beatles Another McCartney line, this one’s a good right hand workout, lots of 8th notes at a brisk tempo (approx 160 BPM).
 
 24) ARE YOU GONNA GO MY WAY by Lenny Kravitz I always enjoy gigging this tune, it’s got a cool basic groove plus some rhythmic embellishments and a guitar solo sections that’s great for drums and bass to play (especially if the drummer’s got a double bass pedal!).
 
