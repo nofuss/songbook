@@ -2,47 +2,81 @@ Ramones - Surfin' Bird
 
 Tempo 192
 
-A1
+A0  -               - a-well-a 
+A0  - everybody's heard about the bird
 
-E |-5-----------5-----5-----5-----5-----5-----5-----5-----------5-----5-----5-----5-----5-----5----      
-B |-5-----------5-----5-----5-----5-----5-----5-----5-----------5-----5-----5-----5-----5-----5----      
-G |-6-----------6-----6-----6-----6-----6-----6-----6-----------6-----6-----6-----6-----6-----6----      
-D |-7-----------7-----7-----7-----7-----7-----7-----7-----------7-----7-----7-----7-----7-----7----      
-A |-7-----------7-----7-----7-----7-----7-----7-----7-----------7-----7-----7-----7-----7-----7----      
-E |-5-----------5-----5-----5-----5-----5-----5-----5-----------5-----5-----5-----5-----5-----5----      
+A1  - bird, bird, bird - bird is the word - a-well-a     1
+
+E |------------------------------------------------------------------------------------------------      
+B |-5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5----      
+G |-6-----6-----6-----6-----6-----6-----6-----6-----6-----6-----6-----6-----6-----6-----6-----6----      
+D |-7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7----      
+A |-7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7----      
+E |-5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5----      
     $           *           *           *           $           *           *           *
 
-B1
+A1  - bird, bird, bird - bird is the word - a-well-a     1
+A1  - bird, bird, bird - bird is the word - a-well-a     3
+A1  - bird, bird, bird - bird is the word - a-well-a     1
+
+A1  - bird, bird, bird - bird is the word - a-well-a     1
+A1  - bird, bird, bird - bird is the word - a-well-a     3
+A1  - bird, bird, bird - bird is the word - a-well-a     1
+A1b - bird, bird, bird - bird is the word - a-well       1
 
 E |------------------------------------------------------------------------------------------------      
-B |-9-----------9-----9-----9-----9-----9-----9-----9-----------9-----9-----9-----9-----9-----9----      
-G |-9-----------9-----9-----9-----9-----9-----9-----9-----------9-----9-----9-----9-----9-----9----      
-D |-9-----------9-----9-----9-----9-----9-----9-----9-----------9-----9-----9-----9-----9-----9----      
-A |-7-----------7-----7-----7-----7-----7-----7-----7-----------7-----7-----7-----7-----7-----7----      
+B |-5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5----------      
+G |-6-----6-----6-----6-----6-----6-----6-----6-----6-----6-----6-----6-----6-----6-----6----------      
+D |-7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7----------      
+A |-7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7----------      
+E |-5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5-----5----------      
+    $           *           *           *           $           *           *           *
+
+B1  - don't you know about the bird? well
+
+E |------------------------------------------------------------------------------------------------      
+B |-9-----------9-----9-----9-----9-----9-----9-----9-----9-----9-----9-----9-----9-----9----------      
+G |-9-----------9-----9-----9-----9-----9-----9-----9-----9-----9-----9-----9-----9-----9----------      
+D |-9-----------9-----9-----9-----9-----9-----9-----9-----9-----9-----9-----9-----9-----9----------      
+A |-7-----------7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7-----7----------      
 E |------------------------------------------------------------------------------------------------      
     $           *           *           *           $           *           *           *
 
-B2
+B2  - everybody knows that the bird is the word, a-well-a
 
 E |------------------------------------------------------------------------------------------------      
-B |-7-----------7-----7-----7-----7-----7-----7-----7-----------7-----7-----7-----7-----7-----7----      
-G |-7-----------7-----7-----7-----7-----7-----7-----7-----------7-----7-----7-----7-----7-----7----      
-D |-7-----------7-----7-----7-----7-----7-----7-----7-----------7-----7-----7-----7-----7-----7----      
-A |-5-----------5-----5-----5-----5-----5-----5-----5-----------5-----5-----5-----5-----5-----5----      
+B |-7-----------7-----7-----7-----7-----7-----7-----7-----------7-----7-----7-----7-----7----------      
+G |-7-----------7-----7-----7-----7-----7-----7-----7-----------7-----7-----7-----7-----7----------      
+D |-7-----------7-----7-----7-----7-----7-----7-----7-----------7-----7-----7-----7-----7----------      
+A |-5-----------5-----5-----5-----5-----5-----5-----5-----------5-----5-----5-----5-----5----------      
 E |------------------------------------------------------------------------------------------------      
     $           *           *           *           $           *           *           *
 
-C1
+A1  - bird,       bird - bird is the word - a-well-a     1
+A1  - bird, bird, bird - bird is the word - a-well-a     1
+A1  - bird, bird, bird - bird is the word - a-well-a     3
+A1  - bird, bird, bird - bird is the word - a-well-a     1
 
+A1  - bird, bird, bird - bird is the word - a-well-a     1
+A1  - bird, bird, bird - bird is the word - a-well-a     3
+A1  - bird, bird, bird - bird is the word - a-well-a     1
+A1b - bird, bird, bird - bird is the word - a-well       1
+
+B1  - don't you know about the bird? well
+B2  - everybody knows that the bird is the word
+
+A1  - bird,       bird - bird is the word - a-well-a
+C1  -               - well 
+    (drums)
 E |-5----------------------------------------------------------------------------------------------      
 B |-5----------------------------------------------------------------------------------------------      
 G |-6----------------------------------------------------------------------------------------------      
 D |-7----------------------------------------------------------------------------------------------      
 A |-7----------------------------------------------------------------------------------------------      
 E |-5----------------------------------------------------------------------------------------------      
-    $           *           *           *           $           *           *           *
+    S           *           *           *           $           *           *           *
 
-C2
+C2  - everybody's heard about the bird
 
 E |------------------------------------------------------------------------------------------------
 B |------------------------------------------------------------------------------------------------
@@ -52,84 +86,57 @@ A |-----------------------------------------------------------------------------
 E |------------------------------------------------------------------------------------------------
     $           *           *           *           $           *           *           *
 
+A1  - bird, bird, bird - bird is the word - a-well-a     1
+A1  - bird, bird, bird - bird is the word - a-well-a     1
+A1  - bird, bird, bird - bird is the word - a-well-a     3
+A1  - bird, bird, bird - bird is the word - a-well-a     1
 
+A1  - bird, bird, bird - bird is the word - a-well-a     1
+A1  - bird, bird, bird - bird is the word - a-well-a     3
+A1  - bird, bird, bird - bird is the word - a-well-a     1
+A1b - bird, bird, bird - bird is the word - a-well       1
 
+B1  - don't you know about the bird? well
+B2  - everybody knows that the bird is the word
 
-A0 -                                      a-well-a 
-A0 - Everybody's heard about the bird
+A1  - bird,       bird - bird is the word - a-well-a
+C3  -     surfin' bird ....
 
-A1 - Bird, bird, bird - Bird is the word - a-well-a     1
-A1 - Bird, bird, bird - Bird is the word - a-well-a     1
-A1 - Bird, bird, bird - Bird is the word - a-well-a     3
-A1 - Bird, bird, bird - Bird is the word - a-well-a     1
+E |-5----------------------------------------------------------------------------------------------      
+B |-5----------------------------------------------------------------------------------------------      
+G |-6----------------------------------------------------------------------------------------------      
+D |-7----------------------------------------------------------------------------------------------      
+A |-7----------------------------------------------------------------------------------------------      
+E |-5----------------------------------------------------------------------------------------------      
+    S   ...
 
-A1 - Bird, bird, bird - Bird is the word - a-well-a     1
-A1 - Bird, bird, bird - Bird is the word - a-well-a     3
-A1 - Bird, bird, bird - Bird is the word - a-well-a     1
-A1 - Bird, bird, bird - Bird is the word - a-well-a     1
+A0  - a mao mao papa - mao mao mao papa
 
-B1 - Don't you know about the bird? Well
-B2 - Everybody knows that the bird is a word
+A1  - a mao mao papa - mao mao mao papa      1
+A1  - a mao mao papa - mao mao mao papa      1
+A1  - a mao mao papa - mao mao mao papa      3
+A1  - a mao mao papa - mao mao mao papa      1
 
-A1 - Bird,       bird - Bird is the word - a-well-a     1
-A1 - Bird, bird, bird - Bird is the word - a-well-a     1
-A1 - Bird, bird, bird - Bird is the word - a-well-a     3
-A1 - Bird, bird, bird - Bird is the word - a-well-a     1
+A1  - a mao mao papa - mao mao mao papa      1
+A1  - a mao mao papa - mao mao mao papa      3
+A1  - a mao mao papa - mao mao mao papa      1
+A1  - a mao mao papa - mao mao mao papa      1
 
-A1 - Bird, bird, bird - Bird is the word - a-well-a     1
-A1 - Bird, bird, bird - Bird is the word - a-well-a     3
-A1 - Bird, bird, bird - Bird is the word - a-well-a     1
-A1 - Bird, bird, bird - Bird is the word - a-well-a     1
+A1  - a mao mao papa - mao mao mao papa      3
+A1  - a mao mao papa - mao mao mao papa      1
+A1  - a mao mao papa - mao mao mao papa      1
+A1  - a mao mao papa - mao mao mao, well     3
 
-B1 - Don't you know about the bird? Well
-B2 - Everybody knows that the bird is the word
+B1  - don't you know about the bird? well,
+B2  - everybody knows that the bird is a word, a papa
+ 
+A1  - a mao mao papa - mao mao mao papa      1
+A1  - a mao mao papa - mao mao mao papa      1
+A1  - a mao mao papa - mao mao mao papa      1
+A1  - a mao mao papa - mao mao mao papa      1
 
-A1 - Bird,       bird - Bird is the word - a-well-a
-C1 -                                    Well
-C2 - Everybody's heard about the bird
+A1  - a mao mao papa - mao mao mao papa      1
+A1  - a mao mao papa - mao mao mao papa      3
+A1  - a mao mao papa - mao mao mao papa      1
+A1  - a mao mao papa - mao mao mao papa      1
 
-A1 - Bird, bird, bird - Bird is the word - a-well-a     1
-A1 - Bird, bird, bird - Bird is the word - a-well-a     1
-A1 - Bird, bird, bird - Bird is the word - a-well-a     3
-A1 - Bird, bird, bird - Bird is the word - a-well-a     1
-
-A1 - Bird, bird, bird - Bird is the word - a-well-a     1
-A1 - Bird, bird, bird - Bird is the word - a-well-a     3
-A1 - Bird, bird, bird - Bird is the word - a-well-a     1
-A1 - Bird, bird, bird - Bird is the word - a-well-a     1
-
-B1 - Don't you know about the bird? Well,
-B2 - Everybody knows that the bird is a word
-
-A1 - Bird,       bird - Bird is the word - a-well-a
-C1 - Surfin' bird
-A0
-A0 - a mao mao papa - mao mao mao papa
-
-A1 - a mao mao papa - mao mao mao papa      1
-A1 - a mao mao papa - mao mao mao papa      1
-A1 - a mao mao papa - mao mao mao papa      3
-A1 - a mao mao papa - mao mao mao papa      1
-
-A1 - a mao mao papa - mao mao mao papa      1
-A1 - a mao mao papa - mao mao mao papa      3
-A1 - a mao mao papa - mao mao mao papa      1
-A1 - a mao mao papa - mao mao mao papa      1
-
-A1 - a mao mao papa - mao mao mao papa      3
-A1 - a mao mao papa - mao mao mao papa      1
-A1 - a mao mao papa - mao mao mao papa      1
-A1 - a mao mao papa - mao mao mao Well      3
-
-B1 - Don't you know about the bird? Well,
-B2 - Everybody knows that the bird is a word
-
-A1 - a mao mao papa - mao mao mao papa      1
-A1 - a mao mao papa - mao mao mao papa      1
-A1 - a mao mao papa - mao mao mao papa      1
-A1 - a mao mao papa - mao mao mao papa      1
-
-A1 - a mao mao papa - mao mao mao papa      1
-A1 - a mao mao papa - mao mao mao papa      3
-A1 - a mao mao papa - mao mao mao papa      1
-A1 - a mao mao papa - mao mao mao papa      1
