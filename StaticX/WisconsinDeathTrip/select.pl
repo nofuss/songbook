@@ -3,7 +3,6 @@ use strict;
 use warnings;
 
 my @songsToDo = qw(
-01-PushIt
 02-ImWithStupid
 03-BledForDays
 04-LoveDump
@@ -19,7 +18,7 @@ my @songsToDo = qw(
 );
 
 my @songsDone = qw(
-
+01-PushIt
 );
 
 #for my $dir (@songsToDo) {
