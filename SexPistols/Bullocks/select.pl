@@ -4,13 +4,13 @@ use warnings;
 
 my @songsToDo = qw(
 01-HolidaysInTheSun
-02-Bodies
 04-Liar
 07-Seventeen
 11-NewYork
 );
 
 my @songsFirstRound = qw(
+02-Bodies
 03-NoFeelings
 05-GodSaveTheQueen
 06-Problems
