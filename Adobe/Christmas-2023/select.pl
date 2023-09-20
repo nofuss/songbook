@@ -11,15 +11,15 @@ Beggin
 BlitzkriegBop
 BornToBeWild
 HighwayToHell
-LonelyBoy
 OneWayOrAnother
 TakeMeOut
 );
 
-my @songsStarted = (
+my @songsStarted = qw(
+LonelyBoy
 );
 
-my @songsDone = (
+my @songsDone = qw(
 );
 
 print $songsToDo[rand @songsToDo] . "\n";
