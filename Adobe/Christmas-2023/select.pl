@@ -11,12 +11,12 @@ Beggin
 BlitzkriegBop
 BornToBeWild
 HighwayToHell
-OneWayOrAnother
 TakeMeOut
 );
 
 my @songsStarted = qw(
 LonelyBoy
+OneWayOrAnother
 );
 
 my @songsDone = qw(
