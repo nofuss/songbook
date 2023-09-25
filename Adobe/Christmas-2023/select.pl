@@ -6,13 +6,13 @@ use warnings;
 
 my @songsToDo = qw(
 AreYouGonnaGoMyWay
-Beggin
 HighwayToHell
 TakeMeOut
 LonelyBoy
 );
 
 my @songsStarted = qw(
+Beggin
 OneWayOrAnother
 AreYouGoingToBeMyGirl
 BlitzkriegBop
