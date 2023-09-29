@@ -19,9 +19,13 @@ OneWayOrAnother
 TakeMeOut
 );
 
-my @songsDone = qw(
+my @songsRoundOne = qw(
 );
 
-print $songsToDo[rand @songsToDo] . "\n";
+my @songsReady = qw(
+);
 
+print 'songs to do: ' . $songsToDo[rand @songsToDo] . "\n" if @songsToDo;
+print 'songs started: ' . $songsStarted[rand @songsStarted] . "\n" if @songsStarted;
+print 'songs ready: ' . $songsRoundOne[rand @songsRoundOne] . "\n" if @songsRoundOne;
 
