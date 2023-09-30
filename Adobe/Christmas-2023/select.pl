@@ -5,12 +5,12 @@ use warnings;
 
 
 my @songsToDo = qw(
-AreYouGonnaGoMyWay
 LonelyBoy
 );
 
 my @songsStarted = qw(
 AreYouGoingToBeMyGirl
+AreYouGonnaGoMyWay
 Beggin
 BlitzkriegBop
 BornToBeWild
