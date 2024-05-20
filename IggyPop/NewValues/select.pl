@@ -4,7 +4,6 @@ use warnings;
 
 my @songsToDo = qw(
 01-TellMeAStory
-02-NewValues
 03-Girls
 04-ImBored
 05-DontLookDown
@@ -18,6 +17,7 @@ my @songsToDo = qw(
 );
 
 my @songsDone = qw(
+02-NewValues
 );
 
 #for my $dir (@songsToDo) {
