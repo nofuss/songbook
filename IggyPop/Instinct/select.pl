@@ -10,19 +10,18 @@ my @songsToDo = qw(
 05-EasyRider
 06-PowerFreedom
 07-Lowdown
-08-Instinct
 09-TuffBaby
 19-Squarehead
 );
 
 my @songsDone = qw(
-
+08-Instinct
 );
 
-for my $dir (@songsToDo) {
-    print `mkdir $dir`;
-    print `touch $dir/info.txt`;
-}
+#for my $dir (@songsToDo) {
+    #print `mkdir $dir`;
+    #print `touch $dir/info.txt`;
+#}
 
 print $songsToDo[rand @songsToDo] . "\n";
 
