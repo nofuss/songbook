@@ -2,20 +2,25 @@
 use strict;
 use warnings;
 
+srand(time());
+
 my @songsToDo = qw(
 01-ColdMetal
 02-HighOnYou
-03-StrongGirl
 06-PowerFreedom
+10-Squarehead
+);
+
+my @songsSkipped = qw(
+03-StrongGirl
 07-Lowdown
-09-TuffBaby
-19-Squarehead
 );
 
 my @songsDone = qw(
 04-TomTom
 05-EasyRider
 08-Instinct
+09-TuffBaby
 );
 
 #for my $dir (@songsToDo) {
