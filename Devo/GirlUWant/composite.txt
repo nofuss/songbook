@@ -12,7 +12,16 @@ A |-----------------------------------------------------------------------------
 E |-------------0-----------------------------------------------0----------------------------------      
     $           *           *           *           $           *           *           *
 
-A2
+A1
+A1
+A1
+
+A1
+A1
+A1
+A1
+
+A2  -               - she 
 
 E |------------------------------------------------------------------------------------------------      
 B |------------------------------------------------------------------------------------------------      
@@ -22,6 +31,16 @@ A |-5-----5-----------------------------------------7-----7---------------------
 E |-3-----3-----------------------------------------5-----5-----------------------------12\--------      
     $           *           *           *           $           *           *           *
 
+A1  - sings from somewhere you can't see,
+A1  - she sits in the top of the greenest tree, she 
+A1  - sends out an aroma of undefined love, it 
+A1  - drips on down in a mist from above, she's just the 
+
+A2  - girl, she's just the girl, the girl you want
+A1  -                   - she's just the 
+A2  - girl, she's just the girl, the girl you want
+
+A1
 A1b
 
 E |------------------------------------------------------------------------------------------------      
@@ -32,7 +51,19 @@ A |-----------------------------------------------------------------------------
 E |-------------0-----------------------------------------------0----------------------------------      
     $           *           *           *           $           *           *           *
 
-B1
+A1  - you hear her calling everywhere you turn
+A1  - you know you're headed for the pleasure burn, but the 
+A1  - words get stuck on the tip of your tongue
+A1  - she's the real thing but you knew it all along, she's just the
+
+A2  - girl, she's just the girl, the girl you want
+A1  -                   - she's just the 
+A2  - girl, she's just the girl, the girl you want
+
+A1
+A1
+
+B1  - look at you with your mouth watering
 
 E |------------------------------------------------------------------------------------------------      
 B |------------------------------------------------------------------------------------------------      
@@ -42,7 +73,7 @@ A |-3-----------------------------------------------5---------------------------
 E |-1-----------------------------------------------3----------------------------------------------      
     $           *           *           *           $           *           *           *
 
-B2
+B2  - look at you with your mind spinning
 
 E |------------------------------------------------------------------------------------------------      
 B |------------------------------------------------------------------------------------------------      
@@ -52,7 +83,7 @@ A |-3-----------------------------------------------3---------------------------
 E |-1----------------------------------------------------------------------------------------------      
     $           *           *           *           $           *           *           *
 
-B3
+B3  - why don't we just admit it's all over, she's 
 
 E |------------------------------------------------------------------------------------------------      
 B |------------------------------------------------------------------------------------------------      
@@ -62,7 +93,7 @@ A |-5-----------------------------------------------3---------------------------
 E |-3-----------------------------------------------1----------------------------------------------      
     $           *           *           *           $           *           *           *
 
-B4
+B4  - just the girl you want
 
 E |------------------------------------------------------------------------------------------------      
 B |------------------------------------------------------------------------------------------------      
@@ -72,7 +103,7 @@ A |-0-----------------0-----------------0---------------------------------------
 E |------------------------------------------------------------------------------------------------      
     $           *           *           *           $           *           *           *
 
-B5 (bass)
+B5 (bass)               - she's just the
 
 E |------------------------------------------------------------------------------------------------      
 B |------------------------------------------------------------------------------------------------      
@@ -81,6 +112,13 @@ D |-------2-----2-----2-----2-----2-----2-----2-----2-----2-----2---------------
 A |------------------------------------------------------------------------------------------------      
 E |------------------------------------------------------------------------------------------------      
     $           *           *           *           $           *           *           *
+
+A2  - girl, she's just the girl, the girl you want
+A1 -                    - she's just the 
+A2  - girl, just the girl, the girl you want
+
+A1
+A1
 
 B1+
 
@@ -122,17 +160,42 @@ A |-----------------------------------------------------------------------------
 E |------------------------------------------------------------------------------------------------      
     $           *           *           *           $           *           *           *
 
-B5+
+B5+ -               - she
 
 E |------------------------------------------------------------------------------------------------      
 B |------------------------------------------------------------------------------------------------      
-G |-9----------------------------------------------------------------------------------------------      
+G |-9\---------------------------------------------------------------------------------------------      
 D |----------------------------------------------------------------------0-h2-----0----------------      
 A |------------------------------------------------------------------------------------------------      
 E |-------------------------------------------------------------------------------------3----------      
     $           *           *           *           $           *           *           *
 
-A2b
+A1  - sings from somewhere you can't see, she 
+A1  - sits in the top of the greenest tree, she 
+A1  - sends out an aroma of undefined lust, it 
+A1  - drips on down in a mist from above, she's just the
+
+A2  - girl, she's just the girl, the girl you want
+A1  -               - she's just the
+A2  - girl, she's just the girl, the girl you want
+
+A1  
+A1
+
+B1  - look at you with your mouth watering
+B2  - look at you with your mind spinning
+B3  - why don't we just admit it's all over, she's 
+B4  - just the girl you want
+B5  -               - she's just the
+
+A2  - girl, she's just the girl, the girl you want
+A1  -               - she's just the
+A2  - girl, she's just the girl, the girl you want
+A1  -               - she's just the
+
+A2  - girl, she's just the girl, the girl you want
+A1  -               - she's just the
+A2b - girl, she's just the girl
 
 E |------------------------------------------------------------------------------------------------
 B |------------------------------------------------------------------------------------------------
@@ -141,61 +204,4 @@ D |-----------------------------------------------------------------------------
 A |-5-----5-----------------------------------------7-----7----------------------------------------
 E |-3-----3-----------------------------------------5-----5----------------------------------------
     $           *           *           *           $           *           *           *
-
-
-
-
-she sings from somewhere you can't see
-she sits in the top of the greenest tree
-she sends out an aroma of undefined love
-it drips on down in a mist from above
-
-she's just the girl, she's just the girl
-the girl you want
-she's just the girl, she's just the girl
-the girl you want
-
-you hear her calling everywhere you turn
-you know you're headed for the pleasure burn
-but the words get stuck on the tip of your tongue
-she's the real thing but you knew it all along
-
-she's just the girl, she's just the girl
-the girl you want
-she's just the girl, she's just the girl
-the girl you want
-
-look at you with your mouth watering
-look at you with your mind spinning
-why don't we just admit it's all over
-she's just the girl you want
-
-she's just the girl, she's just the girl
-the girl you want
-she's just the girl, just the girl
-the girl you want
-
-she sings from somewhere you can't see
-she sits in the top of the greenest tree
-she sends out an aroma of undefined lust
-it drips on down in a mist from above
-
-she's just the girl, she's just the girl
-the girl you want
-she's just the girl, she's just the girl
-the girl you want
-
-look at you with your mouth watering
-look at you with your mind spinning
-why don't we just admit it's all over
-she's just the girl you want
-
-she's just the girl, she's just the girl
-the girl you want
-she's just the girl, just the girl
-the girl you want
-she's just the girl, she's just the girl
-the girl you want
-she's just the girl, she's just the girl
-
 
