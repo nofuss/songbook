@@ -7,11 +7,9 @@ srand(time());
 my @songsToDo = qw(
 JockoHomo
 ItDoesntMatterToMe
-WorkingInACoalMine
 HappyGuy
 ThatsGood
 JerkinBacknForth
-WhipIt
 BabyDoll
 Satisfaction
 UncontrollableUrge
@@ -21,7 +19,9 @@ BoojiBoysBeautifulWorld
 );
 
 my @songsDone = qw(
+WhipIt
 GirlUWant
+WorkingInACoalMine
 );
 
 for my $dir (@songsToDo) {
