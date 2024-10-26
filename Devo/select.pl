@@ -12,7 +12,6 @@ ThatsGood
 JerkinBacknForth
 BabyDoll
 Satisfaction
-UncontrollableUrge
 GutFeeling
 GatesOfSteel
 BoojiBoysBeautifulWorld
@@ -22,6 +21,7 @@ my @songsDone = qw(
 WhipIt
 GirlUWant
 WorkingInACoalMine
+UncontrollableUrge
 );
 
 for my $dir (@songsToDo) {
