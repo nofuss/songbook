@@ -3,20 +3,21 @@ use strict;
 use warnings;
 
 my @songsToDo = qw(
-05-KneelBeforeMe
-08-TurnedToStone
-10-TenThousandWaysToDie
+01-TellMeAStory
+03-Girls
+06-TheEndlessSea
+08-HowDoYaFixABrokenPart
+09-Angel
+10-Curiosity
+11-AfricanMan
+12-BillyIsARunaway
 );
 
 my @songsDone = qw(
-01-Brave
-02-SentenceDay
-03-ALessonInVengeance
-04-EndItNow
-06-ItLives
-07-Betrayed
-09-StraightToHell
-11-NoHope
+02-NewValues
+04-ImBored
+05-DontLookDown
+07-FiveFootOne
 );
 
 #for my $dir (@songsToDo) {
