@@ -8,7 +8,6 @@ my @songsToDo = qw(
 JockoHomo
 ItDoesntMatterToMe
 HappyGuy
-ThatsGood
 JerkinBacknForth
 BabyDoll
 Satisfaction
@@ -22,6 +21,7 @@ WhipIt
 GirlUWant
 WorkingInACoalMine
 UncontrollableUrge
+ThatsGood
 );
 
 for my $dir (@songsToDo) {
