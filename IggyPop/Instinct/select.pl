@@ -7,20 +7,20 @@ srand(time());
 my @songsToDo = qw(
 01-ColdMetal
 02-HighOnYou
-10-Squarehead
+06-PowerFreedom
+03-StrongGirl
+07-Lowdown
 );
 
 my @songsSkipped = qw(
-03-StrongGirl
-07-Lowdown
 );
 
 my @songsDone = qw(
 04-TomTom
 05-EasyRider
-06-PowerFreedom
 08-Instinct
 09-TuffBaby
+10-Squarehead
 );
 
 #for my $dir (@songsToDo) {
