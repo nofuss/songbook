@@ -6,7 +6,6 @@ my @songsToDo = qw(
 01-TellMeAStory
 03-Girls
 05-DontLookDown
-06-TheEndlessSea
 08-HowDoYaFixABrokenPart
 09-Angel
 10-Curiosity
@@ -17,6 +16,7 @@ my @songsToDo = qw(
 my @songsDone = qw(
 02-NewValues
 04-ImBored
+06-TheEndlessSea
 07-FiveFootOne
 );
 
