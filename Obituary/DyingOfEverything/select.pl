@@ -7,7 +7,6 @@ srand(time());
 my @songsToDo = qw(
 03-WithoutAConscience
 04-War
-06-MyWillToLive
 07-ByTheDawn
 08-WeaponizeTheHate
 09-TornApart
@@ -17,6 +16,7 @@ my @songsDone = qw(
 01-BarelyAlive
 02-TheWrongTime
 05-DyingOfEverything
+06-MyWillToLive
 10-BeWarned
 );
 
