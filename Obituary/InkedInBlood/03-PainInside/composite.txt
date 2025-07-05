@@ -41,16 +41,16 @@ D |-3-----0--0--3-----0--0--4-----0--0--4-----0--0--1-----0--0--1--0--1-----0---
     $           *           *           *           $           *           *           *
 
 B1
-B1  (full)
-B1
+B1  - back to front, front to back, life is killing us all
+B1  - gone is the time, pain by life, the future cursed his soul
 
-A1
-A2
-A1
-A1
+A1  - all we need is pain inside
+A2  - all we need is pain
+A1  - all we need is the pain that divides
+A2  - all we need is pain inside
 
-B1
-B1b
+B1  - front to back, back to front, leaving the unknown
+B1b - gone in time, pain with lies, the future cursed our soul
 
 D |------------------------------------------------------------------------------------------------
 A |------------------------------------------------------------------------------------------------
@@ -60,7 +60,7 @@ G |-5-----------5-----------6-----------6-----------3-----------3-----------2---
 D |-3-----0--0--3-----0--0--4-----0--0--4-----0--0--1-----0--0--1-----------0----------------------
     $           *           *           *           $           *           *           *
 
-B1c
+B1c - gone is the way, the ways of life, leaving all for dead
 
 D |------------------------------------------------------------------------------------------------      
 A |------------------------------------------------------------------------------------------------      
@@ -70,12 +70,12 @@ G |-5-----------5-----------6-----------6-----------3-----------3--2--3-----2---
 D |-3-----0--0--3-----0--0--4-----0--0--4-----0--0--1-----0--0--1--0--1-----0-----0--0--0--0--0--0-      
     $           *           *           *           $           *           *           *
 
-B1
+B1  - the common ground, passing time, woe to your last words
 
-A1
-A2
-A1
-A2
+A1  - all we need is the pain inside
+A2  - all we need is pain
+A1  - all we need is the pain that divides
+A2  - all we need is pain
 
 C1  (solo)
 
@@ -98,7 +98,7 @@ G |-------------7--5--4-----------------6--4--3-----------------7--5--4---------
 D |-0--0--0--0--5--5--4-----0--0--0--0--4--4--3-----0--0--0--0--5--5--4-----0--0--0--0--4--4--3----      
     $           *           *           *           $           *           *           *
 
-D1
+D1  - I'm coming to get you, I'm coming to get you, and your
 
 D |------------------------------------------------------------------------------------------------      
 A |------------------------------------------------------------------------------------------------      
@@ -108,32 +108,32 @@ G |-------------7--------8--------5--------5--------------------7--------8------
 D |-0--0--0--0--5-----0--6-----0--3-----0--3--------0--0--0--0--5-----0--6-----0--3-----0--3-------      
     $           *           *           *           $           *           *           *
 
-D1
+D1  - I'm coming to get you, I'm coming to get you, and your
 
-C1
+C1  - soul
 C1
 C1b
 C1
 
-D1
-D1
+D1  - I'm coming to get you, and your, I'm coming to get you, and your
+D1  - soul
 D1
 D1
 
 C1
 
-A1
-A2
-A1
-A2
+A1  - all we need is pain inside
+A2  - all we need is pain
+A1  - all we need is the pain to the divine
+A2  - all we need is pain
 
 B1
 B1b
 B1c
 B1
 
-D1
-C1
+D1  - I'm coming to get you, and your, I'm coming to get you, and your
+C1  - soul
 D1b
 
 D |------------------------------------------------------------------------------------------------
