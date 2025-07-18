@@ -12,13 +12,13 @@ my @songsToDo = qw(
 09-Bloodline
 10-Deviance
 11-WarZone
-12-HereComesThePain
 13-Payback
 );
 
 my @songsDone = qw(
 05-CastDown
 06-Threshold
+12-HereComesThePain
 );
 
 #for my $song (@songsToDo) {
