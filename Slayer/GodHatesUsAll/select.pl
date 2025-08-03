@@ -8,7 +8,6 @@ my @songsToDo = qw(
 03-GodSendDeath
 04-NewFaith
 07-Exile
-08-SevenFaces
 09-Bloodline
 10-Deviance
 11-WarZone
@@ -18,6 +17,7 @@ my @songsToDo = qw(
 my @songsDone = qw(
 05-CastDown
 06-Threshold
+08-SevenFaces
 12-HereComesThePain
 );
 
