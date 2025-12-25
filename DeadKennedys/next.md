@@ -9,7 +9,7 @@ https://www.theguardian.com/music/musicblog/2016/nov/16/dead-kennedys-10-of-the-
 
 https://alt77.com/top-10-songs-by-the-dead-kennedys/
 
-- Kill the Poor
+- Kill the Poor <--
 - Holiday in Cambodia
 - Police Truck
 - California Uber Alles
