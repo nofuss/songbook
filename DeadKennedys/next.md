@@ -5,11 +5,11 @@ https://www.theguardian.com/music/musicblog/2016/nov/16/dead-kennedys-10-of-the-
 
 - California Uber Alles
 - Holiday in Cambodia
-- Moon over Marin <--
+X - Moon over Marin <--
 
 https://alt77.com/top-10-songs-by-the-dead-kennedys/
 
-- Kill the Poor <--
+X - Kill the Poor <--
 - Holiday in Cambodia
 - Police Truck
 - California Uber Alles
