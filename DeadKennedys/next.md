@@ -11,7 +11,7 @@ https://alt77.com/top-10-songs-by-the-dead-kennedys/
 
 X - Kill the Poor <--
 - Holiday in Cambodia
-- Police Truck
+- Police Truck <--
 - California Uber Alles
 - Let's Lynch the Landlord
 - Take this Job and Shove It
