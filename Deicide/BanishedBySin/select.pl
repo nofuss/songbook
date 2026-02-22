@@ -2,6 +2,8 @@
 use strict;
 use warnings;
 
+srand(time());
+
 my @songs = qw(
 01-FromUnknownHeightsYouShallFall
 02-DoomedToDie
@@ -13,11 +15,11 @@ my @songs = qw(
 09-BanishedBySin
 10-ATrinityOfNone
 11-IAmIACurseOfDeath
-12-TheLightDefeated
 );
 
 my @songsDone = qw(
 05-BuryTheCrossWithYourChrist
+12-TheLightDefeated
 );
 
 #for my $song (@songs) {
