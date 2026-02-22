@@ -7,13 +7,13 @@ srand(time());
 my @songsToDo = qw(
 01-Automaton
 02-72Hours
-03-Awake
 04-TheOnlyOne
 05-HopesAndDreams
 06-UntitledYeebrah
 );
 
 my @songsDone = qw(
+03-Awake
 );
 
 #for my $song (@songsToDo) {
