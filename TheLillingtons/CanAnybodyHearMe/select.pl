@@ -5,13 +5,13 @@ use warnings;
 srand(time());
 
 my @songsToDo = qw(
-01-Automaton
 02-72Hours
 05-HopesAndDreams
 06-UntitledYeebrah
 );
 
 my @songsDone = qw(
+01-Automaton
 03-Awake
 04-TheOnlyOne
 );
