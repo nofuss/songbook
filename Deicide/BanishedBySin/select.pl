@@ -9,7 +9,6 @@ my @songs = qw(
 02-DoomedToDie
 04-Faithless
 06-WokeFromGod
-07-RitualDefied
 08-FailuresOfYourDyingLord
 09-BanishedBySin
 10-ATrinityOfNone
@@ -19,6 +18,7 @@ my @songs = qw(
 my @songsDone = qw(
 03-SeverTheTongue
 05-BuryTheCrossWithYourChrist
+07-RitualDefied
 12-TheLightDefeated
 );
 
