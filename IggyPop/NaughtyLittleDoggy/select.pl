@@ -5,7 +5,6 @@ use warnings;
 srand(time());
 
 my @songsToDo = qw(
-01-IWannaLive
 02-PussyWalk
 03-InnocentWorld
 04-Knucklehead
@@ -21,7 +20,7 @@ my @songsSkipped = qw(
 );
 
 my @songsDone = qw(
-
+01-IWannaLive
 );
 
 #for my $dir (@songsToDo) {
