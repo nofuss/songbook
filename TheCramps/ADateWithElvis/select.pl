@@ -5,20 +5,20 @@ use warnings;
 srand(time());
 
 my @songsToDo = qw(
-01-HowFarCanTooFarGo
 02-TheHotPearlSnatch
 03-PeopleAintNoGood
 04-WhatsInsideAGirl
 06-Kizmiaz
 08-Chicken
 09-HotPoolOfWomanneed
-11-ItsJustThatSong
 );
 
 my @songsSkipped = qw(
+11-ItsJustThatSong
 );
 
 my @songsDone = qw(
+01-HowFarCanTooFarGo
 05-CanYourPussyDoTheDog
 07-CornfedDames
 10-AlohaFromHell
