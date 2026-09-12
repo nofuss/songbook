@@ -14,7 +14,6 @@ my @songsToDo = qw(
 08-EverythingGoes
 09-JourneyToTheCenterOfAGirl
 10-MamaOoPowPow
-11-SaddleUpABuzzBuzz
 12-MuleskinnerBlues
 );
 
@@ -23,6 +22,7 @@ my @songsSkipped = qw(
 
 my @songsDone = qw(
 01-BopPills
+11-SaddleUpABuzzBuzz
 );
 
 #for my $dir (@songsToDo) {
