@@ -2,14 +2,10 @@
 use strict;
 use warnings;
 
-my @songsToDo = qw(
-);
+srand(time());
 
-my @songsStarted = qw(
+my @songsToReview = qw(
 01-WarOfTheWorlds
-);
-
-my @songsDone = qw(
 02-DontTrustTheHumanoids
 03-BlackHoleInMyMind
 04-ISawTheApeman
@@ -25,5 +21,9 @@ my @songsDone = qw(
 14-ICameFromTheFuture
 );
 
-print $songsStarted[rand @songsStarted] . "\n";
+my @songsDone = qw(
+);
+
+
+print $songsToReview[rand @songsToReview] . "\n";
 

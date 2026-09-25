@@ -43,13 +43,13 @@ X 18) BROWN SUGAR by The Rolling Stones Another Stones classic, another Bill Wym
 
 X 19) BET THAT YOU LOOK GOOD ON THE DANCEFLOOR by Arctic Monkeys Great contemporary tune, a good one for the rock jam repertoire.
 
-20) I BELIEVE IN A THING CALLED LOVE by The Darkness Straightforward riff based rock tune.
+X 20) I BELIEVE IN A THING CALLED LOVE by The Darkness Straightforward riff based rock tune.
 
-21) YOU GIVE LOVE A BAD NAME by Bon Jovi More Bon Jovi, more 8th note rock.
+X 21) YOU GIVE LOVE A BAD NAME by Bon Jovi More Bon Jovi, more 8th note rock.
 
-22) COME AS YOU ARE by Nirvana Some seattle grunge – 8th note style!
+X 22) COME AS YOU ARE by Nirvana Some seattle grunge – 8th note style!
 
-23) I SAW HER STANDING THERE by The Beatles Another McCartney line, this one’s a good right hand workout, lots of 8th notes at a brisk tempo (approx 160 BPM).
+X 23) I SAW HER STANDING THERE by The Beatles Another McCartney line, this one’s a good right hand workout, lots of 8th notes at a brisk tempo (approx 160 BPM).
 
 24) ARE YOU GONNA GO MY WAY by Lenny Kravitz I always enjoy gigging this tune, it’s got a cool basic groove plus some rhythmic embellishments and a guitar solo sections that’s great for drums and bass to play (especially if the drummer’s got a double bass pedal!).
 

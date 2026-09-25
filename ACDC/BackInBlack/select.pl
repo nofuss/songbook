@@ -7,7 +7,6 @@ my @songsToDo = qw(
 02-ShootToThrill
 03-WhatDoYouDoForMoneyHoney
 04-GivenTheDogABone
-05-LetMePutMyLoveIntoYou
 06-BackInBlack
 07-YouShookMeAllNightLong
 08-HaveADrinkOnMe
@@ -17,6 +16,7 @@ my @songsToDo = qw(
 
 my @songsStarted = qw(
 01-HellsBells
+05-LetMePutMyLoveIntoYou
 );
 
 my @songsWithLead = qw(
