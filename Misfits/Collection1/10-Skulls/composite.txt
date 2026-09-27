@@ -40,7 +40,7 @@ A |-4---------------------------------------------------------------------------
 E |-2----------------------------------------------------------------------------------------------      
     $           *           *           *           $           *           *           *
 
-B2  - skulls
+B2  - skull
 
 E |------------------------------------------------------------------------------------------------      
 B |-7----------------------------------------------------------------------------------------------      
@@ -51,12 +51,12 @@ E |-----------------------------------------------------------------------------
     $           *           *           *           $           *           *           *
 
 B1  - I need your 
-B2  - skulls
+B2  - skull
 
 B1  - I want your 
-B2  - skulls
+B2  - skull
 B1  - I need your 
-B3  - skulls
+B3  - skull
 
 E |-3----------------------------------------------------------------------------------------------      
 B |-3-----------------------------------------------7-----------------------9----------------------      
@@ -72,14 +72,14 @@ A1  - gotta have you on my wall
 A2  - gotta have you on my wall, 'cause
 
 B1  - I want your 
-B2  - skulls
+B2  - skull
 B1  - I need your 
-B2  - skulls
+B2  - skull
 
 B1  - I want your 
-B2  - skulls
+B2  - skull
 B1  - I need your 
-B3  - skulls, hey!
+B3  - skull, hey!
 
 C1  -       - hey!
 
@@ -111,24 +111,24 @@ E |-----------------------------------------------------------------------------
     $           *           *           *           $           *           *           *
 
 B1  - I want your 
-B2  - skulls
+B2  - skull
 B1  - I need your 
-B3  - skulls
+B3  - skull
 
 B1  - I want your 
-B2  - skulls
+B2  - skull
 B1  - I need your 
-B3  - skulls
+B3  - skull
 
 B1  - I want your 
-B2  - skulls
+B2  - skull
 B1  - I need your 
-B3  - skulls
+B3  - skull
 
 B1  - I want your 
-B2  - skulls
+B2  - skull
 B1  - I need your 
-B3  - skulls
+B3  - skull
 
 C3
 
