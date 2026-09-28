@@ -14,7 +14,6 @@ my @songsToDo = qw(
 08-Vampira
 11-LondonDungeon
 12-GhoulsNightOut
-13-AstroZombies
 14-MommyCanIGoOutAndKillTonight
 15-DieDieMyDarling
 16-EarthAD
@@ -27,6 +26,7 @@ my @songsDone = qw(
 01-She
 09-ITurnedIntoAMartian
 10-Skulls
+13-AstroZombies
 19-GreenHell
 );
 
