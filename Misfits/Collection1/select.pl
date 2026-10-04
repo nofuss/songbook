@@ -9,7 +9,6 @@ my @songsToDo = qw(
 03-Bullet
 05-TeenagersFromMars
 06-NightOfTheLivingDead
-07-WhereEaglesDare
 08-Vampira
 11-LondonDungeon
 12-GhoulsNightOut
@@ -23,6 +22,7 @@ my @songsToDo = qw(
 my @songsDone = qw(
 01-She
 04-HorrorBusiness
+07-WhereEaglesDare
 09-ITurnedIntoAMartian
 10-Skulls
 13-AstroZombies
