@@ -7,7 +7,6 @@ srand(time());
 my @songsToDo = qw(
 06-NightOfTheLivingDead
 17-Devilock
-20-WolfsBlood
 );
 
 my @songsDone = qw(
@@ -28,6 +27,7 @@ my @songsDone = qw(
 16-EarthAD
 18-DeathComesRipping
 19-GreenHell
+20-WolfsBlood
 );
 
 #for my $song (@songsToDo) {
