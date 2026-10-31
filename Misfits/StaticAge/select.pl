@@ -5,7 +5,6 @@ use warnings;
 srand(time());
 
 my @songsToDo = qw(
-03-SomeKindaHate
 04-LastCaress
 05-ReturnOfTheFly
 06-HybridMoments
@@ -25,6 +24,7 @@ my @songsToDo = qw(
 my @songsDone = qw(
 01-StaticAge
 02-TVCasualty
+03-SomeKindaHate
 );
 
 
