@@ -4,8 +4,6 @@ use warnings;
 
 my @songsToDo = qw(
 05-TheHunger
-10-ThisIslandEarth
-11-CrimsonGhost
 );
 
 my @songsDone = qw(
@@ -18,6 +16,8 @@ my @songsDone = qw(
 08-Blacklight
 09-Resurrection
 
+10-ThisIslandEarth
+11-CrimsonGhost
 12-DayOfTheDead
 13-TheHaunting
 14-MarsAttacks
