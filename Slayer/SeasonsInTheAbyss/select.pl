@@ -12,14 +12,13 @@ my @songsToDo = qw(
 
 my @songsDone = qw(
 01-WarEnsemble
-02-BloodRed
 05-DeadSkinMask
-07-SkeletonsOfSociety
 10-SeasonsInTheAbyss
 );
 
 my @songsDoneAgain = qw(
-
+02-BloodRed
+07-SkeletonsOfSociety
 );
 
 #for my $song (@songsToDo) {
