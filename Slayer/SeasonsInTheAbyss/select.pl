@@ -3,21 +3,21 @@ use strict;
 use warnings;
 
 my @songsToDo = qw(
-03-SpiritInBlack
+01-WarEnsemble
 04-ExpendableYouth
 06-HallowedPoint
 08-Temptation
 09-BornOfFire
+10-SeasonsInTheAbyss
 );
 
 my @songsDone = qw(
-01-WarEnsemble
-05-DeadSkinMask
-10-SeasonsInTheAbyss
 );
 
 my @songsDoneAgain = qw(
 02-BloodRed
+03-SpiritInBlack
+05-DeadSkinMask
 07-SkeletonsOfSociety
 );
 
